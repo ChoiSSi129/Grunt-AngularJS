@@ -1,0 +1,8 @@
+<div>
+    <ul>
+        <li ng-repeat="item in gnbData.items">
+            <span ng-if="item.txtFlag">{{item.txtFlag}}</span>
+            <button type="button" ng-click="handleGnbClick($index)">{{item.dispNm}}</button>
+        </li>
+    </ul>
+</div>

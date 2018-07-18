@@ -1,0 +1,2605 @@
+{
+    "disp": [
+        {
+        "dispNo" : 5570109,
+        "colorInfo" : {
+          "fontColor" : "#7291CF",
+          "lineColor" : "#7291CF",
+          "loadingBgColor" : "#C9D7F5",
+          "copyBgColor" : "#98ADD9"
+        },
+        "moduleData" : [ {
+          "moduleId" : "M2062",
+          "moduleNm" : "등급별임직원배너|등급/임직원배너",
+          "blankCd" : "30",
+          "tclick" : "m_RDC_main_5570109_M2062",
+          "normalBannerList" : {
+            "items" : [ {
+              "bgColor" : "#EF99C8",
+              "imgUrl" : "http://image.lotte.com/upload/display/corner/5545307_58659_48535_30_13010507_192_20180612092512.jpg",
+              "linkUrl" : "http://m.lotte.com/event/specialevent7.do?",
+              "grade" : "10"
+            }, {
+              "bgColor" : "#EF99C8",
+              "imgUrl" : "http://image.lotte.com/upload/display/corner/5545307_58659_48535_30_13010507_192_20180612092512.jpg",
+              "linkUrl" : "http://m.lotte.com/event/specialevent7.do?",
+              "grade" : "20"
+            }, {
+              "bgColor" : "#EF99C8",
+              "imgUrl" : "http://image.lotte.com/upload/display/corner/5545307_58659_48535_30_13010507_192_20180612092512.jpg",
+              "linkUrl" : "http://m.lotte.com/event/specialevent7.do?",
+              "grade" : "30"
+            }, {
+              "bgColor" : "#EF99C8",
+              "imgUrl" : "http://image.lotte.com/upload/display/corner/5545307_58659_48535_30_13010507_192_20180612092512.jpg",
+              "linkUrl" : "http://m.lotte.com/event/specialevent7.do?",
+              "grade" : "40"
+            }, {
+              "bgColor" : "#EF99C8",
+              "imgUrl" : "http://image.lotte.com/upload/display/corner/5545307_58659_48535_30_13010507_192_20180612092512.jpg",
+              "linkUrl" : "http://m.lotte.com/event/specialevent7.do?",
+              "grade" : "50"
+            }, {
+              "bgColor" : "#EF99C8",
+              "imgUrl" : "http://image.lotte.com/upload/display/corner/5545307_58659_48535_30_13010507_192_20180612092512.jpg",
+              "linkUrl" : "http://m.lotte.com/event/specialevent7.do?",
+              "grade" : "60"
+            }, {
+              "bgColor" : "#EF99C8",
+              "imgUrl" : "http://image.lotte.com/upload/display/corner/5545307_58659_48535_30_13010507_192_20180612092512.jpg",
+              "linkUrl" : "http://m.lotte.com/event/specialevent7.do?",
+              "grade" : "99"
+            } ],
+            "total_count" : 7
+          },
+          "staffBannerList" : {
+            "items" : [ {
+              "bgColor" : "#EF99C8",
+              "imgUrl" : "http://image.lotte.com/upload/display/corner/5545307_58660_48532_30_13010513_188_20180612092957.jpg",
+              "linkUrl" : "http://m.lotte.com/event/specialevent7.do?",
+              "grade" : "10"
+            }, {
+              "bgColor" : "#EF99C8",
+              "imgUrl" : "http://image.lotte.com/upload/display/corner/5545307_58660_48532_30_13010513_188_20180612092957.jpg",
+              "linkUrl" : "http://m.lotte.com/event/specialevent7.do?",
+              "grade" : "20"
+            }, {
+              "bgColor" : "#EF99C8",
+              "imgUrl" : "http://image.lotte.com/upload/display/corner/5545307_58660_48532_30_13010513_188_20180612092957.jpg",
+              "linkUrl" : "http://m.lotte.com/event/specialevent7.do?",
+              "grade" : "30"
+            }, {
+              "bgColor" : "#EF99C8",
+              "imgUrl" : "http://image.lotte.com/upload/display/corner/5545307_58660_48532_30_13010513_188_20180612092957.jpg",
+              "linkUrl" : "http://m.lotte.com/event/specialevent7.do?",
+              "grade" : "40"
+            }, {
+              "bgColor" : "#EF99C8",
+              "imgUrl" : "http://image.lotte.com/upload/display/corner/5545307_58660_48532_30_13010513_188_20180612092957.jpg",
+              "linkUrl" : "http://m.lotte.com/event/specialevent7.do?",
+              "grade" : "50"
+            }, {
+              "bgColor" : "#EF99C8",
+              "imgUrl" : "http://image.lotte.com/upload/display/corner/5545307_58660_48532_30_13010513_188_20180612092957.jpg",
+              "linkUrl" : "http://m.lotte.com/event/specialevent7.do?",
+              "grade" : "60"
+            }, {
+              "bgColor" : "#EF99C8",
+              "imgUrl" : "http://image.lotte.com/upload/display/corner/5545307_58660_48532_30_13010513_188_20180612092957.jpg",
+              "linkUrl" : "http://m.lotte.com/event/specialevent7.do?",
+              "grade" : "99"
+            } ],
+            "total_count" : 7
+          },
+          "beLoginBannerList" : {
+            "items" : [ {
+              "imgUrl" : "http://image.lotte.com/upload/display/corner/5553631_56559_48037_30_13010275_162_20180612092003.jpg",
+              "linkUrl" : "http://m.lotte.com/event/specialevent7.do?"
+            } ],
+            "total_count" : 1
+          }
+        }, {
+          "moduleId" : "M2035",
+          "moduleNm" : "전사행사배너|프로모션배너A형",
+          "randomCd" : "F",
+          "blankCd" : "30",
+          "tclick" : "m_RDC_main_5570109_M2035",
+          "items" : [ {
+            "btmTxt" : "아너스위크 大바자 \n프라다/다이슨 外 ~50%",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/1_195490_222164_20180611170131.jpg",
+            "linkUrl" : "http://m.lotte.com/event/lottefesta.do? ",
+            "isOutLink" : false
+          }, {
+            "btmTxt" : "창립22주년 특집!\n헤지스,아모레 최대50%OFF",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/1_195803_222603_20180611170208.jpg",
+            "linkUrl" : "http://m.lotte.com/event/specialevent7.do?",
+            "isOutLink" : false
+          }, {
+            "btmTxt" : "샵텐텐으로\n10%할인+10%적립",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/1_199257_225641_20180608150157.jpg",
+            "linkUrl" : "http://m.lotte.com/main_phone.do?dispNo=5612522",
+            "isOutLink" : false
+          }, {
+            "btmTxt" : "썸머비치&스포츠웨어\n최대10% L.POINT적립!",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/1_199071_225647_20180608150525.jpg",
+            "linkUrl" : "http://m.lotte.com/product/m/product_list.do?curDispNo=5441914",
+            "isOutLink" : false
+          }, {
+            "btmTxt" : "캠핑의 끝은 BBQ타임!\n구매시 L.POINT 증정!",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/1_199259_225653_20180608150905.jpg",
+            "linkUrl" : "http://m.lotte.com/product/m/product_list.do?curDispNo=5440978",
+            "isOutLink" : false
+          }, {
+            "btmTxt" : "여름을 스마트하게!\n쿨매트 구매찬스!",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/1_199073_225504_20180608151208.jpg",
+            "linkUrl" : "http://m.lotte.com/product/m/product_list.do?curDispNo=5408632",
+            "isOutLink" : false
+          }, {
+            "btmTxt" : "탐스 입점 기념! \n최대50%off+무료배송",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/1_199074_225519_20180608152329.jpg",
+            "linkUrl" : "http://m.lotte.com/product/m/product_list.do?curDispNo=5442069",
+            "isOutLink" : false
+          } ],
+          "total_count" : 7
+        }, {
+          "moduleId" : "M2004",
+          "moduleNm" : "대표서비스1번|서비스배너",
+          "blankCd" : "40",
+          "tclick" : "m_RDC_main_5570109_M2004_1",
+          "items" : [ {
+            "txt" : "스마트픽",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/56404_193021_219474_20180531152821.png",
+            "linkUrl" : "http://m.lotte.com/mall/smartpick.do",
+            "isOutLink" : false
+          }, {
+            "txt" : "펫22%할인",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/56404_162046_183469_20180529150214.png",
+            "linkUrl" : "http://m.lotte.com/mall/pet/mitou_main.do?&dispNo=5566232&curDispNo=5566232",
+            "isOutLink" : false
+          }, {
+            "txt" : "TV쇼핑",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/56404_193021_219476_20180531083724.png",
+            "linkUrl" : "http://m.lotte.com/mall/tvShopping.do",
+            "isOutLink" : false
+          }, {
+            "txt" : "절친쿠폰북",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/56404_162046_183471_20180529150214.png",
+            "linkUrl" : "http://m.lotte.com/event/couponBook.do?",
+            "isOutLink" : false
+          } ],
+          "total_count" : 4
+        }, {
+          "moduleId" : "M2006",
+          "moduleNm" : "카드행사|카드행사",
+          "blankCd" : "20",
+          "tclick" : "m_RDC_main_5570109_M2006_1",
+          "items" : [ {
+            "cardTxt" : "삼성",
+            "benefitTxt" : "5% 청구 + 앱 10% 최대적립",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/3_199414_226475_20180611135215.jpg",
+            "linkUrl" : "http://m.lotte.com/planshop/planshop_view.do?spdp_no=5438115",
+            "isOutLink" : false
+          }, {
+            "cardTxt" : "NH농협",
+            "benefitTxt" : "7% 청구+앱 5천점 최대적립",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/3_199618_226263_20180611135319.jpg",
+            "linkUrl" : "http://m.lotte.com/planshop/planshop_view.do?spdp_no=5438115",
+            "isOutLink" : false
+          }, {
+            "cardTxt" : "모바일앱",
+            "benefitTxt" : "단 이틀! 최대 10%추가적립",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/3_200001_227202_20180612092309.jpg",
+            "linkUrl" : "http://m.lotte.com/event/eventSaunMain.do?evt_no=357853",
+            "isOutLink" : false
+          } ],
+          "total_count" : 3
+        }, {
+          "moduleId" : "M2002",
+          "moduleNm" : "서프라이즈|서프라이즈타이틀",
+          "txt" : "브랜드는 서프라이즈",
+          "imgUrl" : "http://image.lotte.com/upload/display/main/7_1636_3004.png",
+          "blankCd" : "10",
+          "tclick" : "m_RDC_main_5570109_M2002_1"
+        }, {
+          "moduleId" : "M2037",
+          "moduleNm" : "서프라이즈|[자동]서프라이즈",
+          "blankCd" : "20",
+          "tclick" : "m_RDC_main_5570109_M2037",
+          "items" : [ {
+            "topTxt" : "LG전자 홈캉스를 즐기는 당신",
+            "btmTxt" : "L.P 최대 5만점 적립",
+            "imgUrl" : "http://image.lotte.com/upload/display/corner/5545415_47355_0_30_13008656_168_20180608141707.jpg",
+            "linkUrl" : "http://m.lotte.com/product/product_list.do?curDispNo=5397881",
+            "isOutLink" : false
+          }, {
+            "topTxt" : "쌤소나이트",
+            "btmTxt" : "코너스백팩/캐리어",
+            "imgUrl" : "http://image.lotte.com/upload/display/corner/5545415_47356_0_30_13008661_160_20180608143656.jpg",
+            "linkUrl" : "http://m.lotte.com/product/product_list.do?curDispNo=5370672",
+            "isOutLink" : false
+          }, {
+            "topTxt" : "블루독",
+            "btmTxt" : "30% OFF",
+            "imgUrl" : "http://image.lotte.com/upload/display/corner/5545415_47357_0_30_13008665_139_20180608145628.jpg",
+            "linkUrl" : "http://m.lotte.com/product/product_list.do?curDispNo=5436184",
+            "isOutLink" : false
+          }, {
+            "topTxt" : "CJ제일제당",
+            "btmTxt" : "8% 할인쿠폰",
+            "imgUrl" : "http://image.lotte.com/upload/display/corner/5545415_47358_0_30_13008669_215_20180608150152.jpg",
+            "linkUrl" : "http://m.lotte.com/product/product_list.do?curDispNo=5389665",
+            "isOutLink" : false
+          }, {
+            "topTxt" : "온앤온 外",
+            "btmTxt" : "단독 1만원대~",
+            "imgUrl" : "http://image.lotte.com/upload/display/corner/5545415_47359_0_30_13008673_206_20180608150946.jpg",
+            "linkUrl" : "http://m.lotte.com/product/product_list.do?curDispNo=5356754",
+            "isOutLink" : false
+          } ],
+          "total_count" : 5
+        }, {
+          "moduleId" : "M2004",
+          "moduleNm" : "대표서비스2번|서비스배너",
+          "blankCd" : "20",
+          "tclick" : "m_RDC_main_5570109_M2004_2",
+          "items" : [ {
+            "txt" : "10%+10%",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/55605_161870_183460_20180330153025.png",
+            "linkUrl" : "http://m.lotte.com/main_phone.do?dispNo=5612522",
+            "isOutLink" : false
+          }, {
+            "txt" : "특별한 맛남",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/55605_161870_183461_20180330153025.jpg",
+            "linkUrl" : "http://m.lotte.com/mall/spec_mall.do?dispNo=5558814",
+            "isOutLink" : false
+          }, {
+            "txt" : "스타일샵",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/55605_161870_183462_20180530143530.png",
+            "linkUrl" : "http://m.lotte.com/styleshop/styleshop_main.do?",
+            "isOutLink" : false
+          }, {
+            "txt" : "오늘도착",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/55605_161870_183463_20180330153025.png",
+            "linkUrl" : "http://m.lotte.com/product/m/product_list.do?curDispNo=5387795",
+            "isOutLink" : false
+          } ],
+          "total_count" : 4
+        }, {
+          "moduleId" : "M2029",
+          "moduleNm" : "최근본상품|[자동]최근본상품",
+          "jsonCallUrl" : "http://m.lotte.com/json/main_new/latest_product.json?dispNo=5570109&type=L",
+          "blankCd" : "20",
+          "tclick" : "m_RDC_main_5570109_M2029"
+        }, {
+          "moduleId" : "M2001",
+          "moduleNm" : "시즌추천카테고리|타이틀",
+          "topTxt" : "요즘 HOT!",
+          "btmTxt" : "시즌 추천 카테고리",
+          "blankCd" : "10",
+          "tclick" : "m_RDC_main_5570109_M2001_1"
+        }, {
+          "moduleId" : "M2004",
+          "moduleNm" : "시즌추천카테고리|서비스배너1",
+          "blankCd" : "10",
+          "tclick" : "m_RDC_main_5570109_M2004_3",
+          "items" : [ {
+            "txt" : "웨지샌들",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/30809_199216_225083_20180608112539.png",
+            "linkUrl" : "http://m.lotte.com/category/m/cate_mid_list_anglr.do?c=mlotte&udid=&v=&cn=&cdn=&schema=&curDispNo=5537281",
+            "isOutLink" : false
+          }, {
+            "txt" : "킥보드",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/30809_199216_225084_20180608112539.png",
+            "linkUrl" : "http://m.lotte.com/category/m/cate_mid_list_anglr.do?c=mlotte&udid=&v=&cn=&cdn=&schema=&curDispNo=5537295",
+            "isOutLink" : false
+          }, {
+            "txt" : "선케어",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/30809_185805_211221_20180608105040.png",
+            "linkUrl" : "http://m.lotte.com/category/m/cate_beauty_list.do?c=mlotte&udid=&v=&cn=&cdn=&schema=&curDispNo=5537279",
+            "isOutLink" : false
+          }, {
+            "txt" : "원피스",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/30809_185805_211222_20180608105040.png",
+            "linkUrl" : "http://m.lotte.com/category/m/cate_mid_list_anglr.do?c=mlotte&udid=&v=&cn=&cdn=&schema=&curDispNo=5537285",
+            "isOutLink" : false
+          } ],
+          "total_count" : 4
+        }, {
+          "moduleId" : "M2004",
+          "moduleNm" : "시즌추천카테고리|서비스배너2",
+          "blankCd" : "20",
+          "tclick" : "m_RDC_main_5570109_M2004_4",
+          "items" : [ {
+            "txt" : "유아동샌들",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/30810_185806_211235_20180608105146.png",
+            "linkUrl" : "http://m.lotte.com/category/m/cate_mid_list_anglr.do?c=mlotte&udid=&v=&cn=&cdn=&schema=&curDispNo=5537299",
+            "isOutLink" : false
+          }, {
+            "txt" : "자외선차단",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/30810_199218_225092_20180608112808.png",
+            "linkUrl" : "http://m.lotte.com/category/m/cate_mid_list_anglr.do?c=mlotte&udid=&v=&cn=&cdn=&schema=&curDispNo=5537283",
+            "isOutLink" : false
+          }, {
+            "txt" : "여름침구",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/30810_199218_225093_20180608112808.png",
+            "linkUrl" : "http://m.lotte.com/category/m/cate_mid_list_anglr.do?c=mlotte&udid=&v=&cn=&cdn=&schema=&curDispNo=5537314",
+            "isOutLink" : false
+          }, {
+            "txt" : "에어컨",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/30810_189415_215643_20180608105146.png",
+            "linkUrl" : "http://m.lotte.com/category/m/cate_mid_list_anglr.do?c=mlotte&udid=&v=&cn=&cdn=&schema=&curDispNo=5537305",
+            "isOutLink" : false
+          } ],
+          "total_count" : 4
+        }, {
+          "moduleId" : "M2027",
+          "moduleNm" : "동영상|동영상상품형",
+          "topTxt" : "#video_darii",
+          "btmTxt" : "[에이바자르] 퀵 클렌징 드라이 티슈",
+          "imgUrl" : "http://image.lotte.com/upload/display/main/1076_199640_226640_20180611165828.jpg",
+          "mvUrl" : "http://api.wecandeo.com/video/default/BOKNS9AQWrEBM0CCGsEelx1l5quSW2ZipNgipokGH6GdYGDLiikJLrBIyho4pqLKNis4ZCy4IG7kZTQ431147TteoAieie",
+          "moreBtn" : {
+            "txt" : "video_darii 상품 더보기",
+            "linkUrl" : "http://m.lotte.com/product/m/product_list.do?curDispNo=5442068",
+            "isOutLink" : false
+          },
+          "blankCd" : "20",
+          "tclick" : "m_RDC_main_5570109_M2027_1",
+          "prdInfo" : {
+            "goodsNo" : 451908425,
+            "isPlanPrd" : false,
+            "goodsNm" : "[에이바자르] 퀵 클렌징 드라이 티슈 1팩 (15매)",
+            "imgUrl" : "http://image.lotte.com/goods/25/84/90/51/4/451908425_1_280.jpg",
+            "price" : 18000
+          }
+        }, {
+          "moduleId" : "M2033",
+          "moduleNm" : "TV쇼핑|TV쇼핑",
+          "blankCd" : "20",
+          "tclick" : "m_RDC_main_5570109_M2033",
+          "bdEndTime" : "20180612164000",
+          "moreBtnUrl" : "http://m.lotte.com/mall/tvShopping.do?curDispNo=5553631",
+          "prdInfo" : {
+            "goodsNo" : 518928763,
+            "goodsNm" : "[상콤 플렉스] [SANS COMPLEXE] 쿨링 라이크라 풀커버 컬렉션 + 브라팬티 2세트 더",
+            "imgUrl" : "http://image.lotte.com/goods/63/87/92/18/5/518928763_1_280.jpg",
+            "price" : 143100
+          }
+        }, {
+          "moduleId" : "M2001",
+          "moduleNm" : "빅딜|타이틀",
+          "btmTxt" : "빅딜 베스트",
+          "blankCd" : "10",
+          "tclick" : "m_RDC_main_5570109_M2001_2"
+        }, {
+          "moduleId" : "M2028",
+          "moduleNm" : "빅딜|빅딜베스트",
+          "blankCd" : "10",
+          "tclick" : "m_RDC_main_5570109_M2028_1",
+          "dealList" : {
+            "items" : [ {
+              "goodsNo" : 424212955,
+              "isPlanPrd" : true,
+              "goodsNm" : "[쌤소나이트] 썸머 바캉스 캐리어/백팩/크로스백 제안 택1",
+              "imgUrl" : "http://image.lotte.com/goods/55/29/21/24/4/424212955_20180612154352.jpg",
+              "price" : 84150,
+              "isSoldOut" : false,
+              "saleRate" : 0,
+              "isCoupon" : false,
+              "saleCnt" : 724,
+              "mdTip" : "양세종이 제안하는 백팩&캐리어",
+              "flag" : [ "freeDlv", "smartpick" ],
+              "isWideImg" : true
+            }, {
+              "goodsNo" : 521753669,
+              "isPlanPrd" : true,
+              "goodsNm" : "놓치기에는 아쉬운 소장가치 있는 Summer아이템 득템가! 반팔티셔츠/린넨원피스外",
+              "imgUrl" : "http://image.lotte.com/upload/display/mobile_banner/5599321_521753669_20180605173053.jpg",
+              "price" : 17100,
+              "isSoldOut" : false,
+              "saleRate" : 0,
+              "isCoupon" : false,
+              "saleCnt" : 626,
+              "mdTip" : "★품절대란 린넨원피스 3만원대~ BIG찬스★",
+              "flag" : [ "dept" ],
+              "isWideImg" : true
+            }, {
+              "goodsNo" : 492468348,
+              "isPlanPrd" : true,
+              "goodsNm" : "18 SS PRE-SEASON OFF! 인기 상품 30% SALE",
+              "imgUrl" : "http://image.lotte.com/upload/display/mobile_banner/5574014_492468348_20180611131745.jpg",
+              "price" : 28560,
+              "isSoldOut" : false,
+              "saleRate" : 0,
+              "isCoupon" : false,
+              "saleCnt" : 138,
+              "mdTip" : "시즌오프 30%OFF + 15% 할인 + 9% 적립",
+              "flag" : [ "freeDlv", "smartpick" ],
+              "isWideImg" : true
+            } ],
+            "total_count" : 3
+          }
+        }, {
+          "moduleId" : "M2003",
+          "moduleNm" : "빅딜|더보기",
+          "txt" : "빅딜 더보기",
+          "linkUrl" : "http://m.lotte.com/main_phone.do?dispNo=5571899",
+          "isOutLink" : false,
+          "blankCd" : "20",
+          "tclick" : "m_RDC_main_5570109_M2003_2"
+        }, {
+          "moduleId" : "M2005",
+          "moduleNm" : "광고배너|광고배너",
+          "topTxt" : "수영복부터 바캉스 용품까지~",
+          "btmTxt" : "물놀이 GOGO!",
+          "imgUrl" : "http://image.lotte.com/upload/display/main/10_199062_225465_20180608141338.jpg",
+          "linkUrl" : "http://m.lotte.com/product/m/product_list.do?curDispNo=5441471",
+          "isOutLink" : false,
+          "blankCd" : "20",
+          "tclick" : "m_RDC_main_5570109_M2005_1"
+        }, {
+          "moduleId" : "M2030",
+          "moduleNm" : "개인화추천|추천상품",
+          "jsonCallUrl" : "http://m.lotte.com/json/main_new/latest_product.json?dispNo=5570109&type=R",
+          "blankCd" : "20",
+          "tclick" : "m_RDC_main_5570109_M2030"
+        }, {
+          "moduleId" : "M2031",
+          "moduleNm" : "개인화추천|추천기획전",
+          "jsonCallUrl" : "http://m.lotte.com/json/main_new/spdp_recomm_list.json?dispNo=5570109",
+          "blankCd" : "20",
+          "tclick" : "m_RDC_main_5570109_M2031"
+        }, {
+          "moduleId" : "M2001",
+          "moduleNm" : "텐텐|타이틀",
+          "topTxt" : "10%할인 + 10% 적립",
+          "btmTxt" : "#텐텐 베스트 ",
+          "blankCd" : "10",
+          "tclick" : "m_RDC_main_5570109_M2001_3"
+        }, {
+          "moduleId" : "M2028",
+          "moduleNm" : "텐텐|빅딜3개형",
+          "blankCd" : "10",
+          "tclick" : "m_RDC_main_5570109_M2028_2",
+          "dealList" : {
+            "items" : [ {
+              "goodsNo" : 493002611,
+              "isPlanPrd" : true,
+              "goodsNm" : "[#텐텐]지금부터 신기 좋은 로퍼/플랫 외 20종 택 1",
+              "imgUrl" : "http://image.lotte.com/goods/11/26/00/93/4/493002611_20180604154331.jpg",
+              "price" : 79200,
+              "isSoldOut" : false,
+              "saleRate" : 0,
+              "isCoupon" : false,
+              "saleCnt" : 128,
+              "mdTip" : "예쁨주의!취향저격 세라슈즈!",
+              "flag" : [ "freeDlv", "smartpick" ],
+              "isWideImg" : true,
+              "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+            }, {
+              "goodsNo" : 326608109,
+              "isPlanPrd" : false,
+              "goodsNm" : "[#텐텐]에르고베이비 4포지션360캐리어 택1/정가250,000원★신생아패드증정",
+              "imgUrl" : "http://image.lotte.com/goods/09/81/60/26/3/326608109_20180611103951.jpg",
+              "price" : 99000,
+              "isSoldOut" : false,
+              "saleRate" : 10,
+              "isCoupon" : true,
+              "saleCnt" : 10,
+              "mdTip" : "국민아기띠 에르고베이비!",
+              "flag" : [ "freeDlv", "smartpick" ],
+              "isWideImg" : true,
+              "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+            }, {
+              "goodsNo" : 498069448,
+              "isPlanPrd" : true,
+              "goodsNm" : "[#텐텐] 청소기 BEST",
+              "imgUrl" : "http://image.lotte.com/goods/48/94/06/98/4/498069448_20180515095746.jpg",
+              "price" : 90900,
+              "isSoldOut" : false,
+              "saleRate" : 0,
+              "isCoupon" : false,
+              "saleCnt" : 28,
+              "mdTip" : "일렉트로룩스 텐텐 혜택!",
+              "flag" : [ "freeDlv", "smartpick" ],
+              "isWideImg" : true,
+              "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+            } ],
+            "total_count" : 3
+          }
+        }, {
+          "moduleId" : "M2003",
+          "moduleNm" : "텐텐|더보기",
+          "txt" : "#텐텐 더보기 ",
+          "linkUrl" : "http://m.lotte.com/main_phone.do?dispNo=5612522",
+          "isOutLink" : false,
+          "blankCd" : "20",
+          "tclick" : "m_RDC_main_5570109_M2003_3"
+        }, {
+          "moduleId" : "M2001",
+          "moduleNm" : "브랜드인사이드|타이틀",
+          "btmTxt" : "브랜드 인사이드",
+          "blankCd" : "10",
+          "tclick" : "m_RDC_main_5570109_M2001_4"
+        }, {
+          "moduleId" : "M2008",
+          "moduleNm" : "브랜드인사이드|프로모션배너C형",
+          "btmTxt" : "탐스 입점기념 !\n최대 50% 빅★세일",
+          "imgUrl" : "http://image.lotte.com/upload/display/main/32670_199287_225750_20180608165716.jpg",
+          "linkUrl" : "http://m.lotte.com/product/m/product_list.do?curDispNo=5442069",
+          "randomCd" : "N",
+          "isOutLink" : false,
+          "blankCd" : "10",
+          "tclick" : "m_RDC_main_5570109_M2008_1"
+        }, {
+          "moduleId" : "M2013",
+          "moduleNm" : "브랜드인사이드|상품4개형",
+          "blankCd" : "20",
+          "tclick" : "m_RDC_main_5570109_M2013_1",
+          "prdList" : {
+            "items" : [ {
+              "goodsNo" : 521337843,
+              "isPlanPrd" : false,
+              "goodsNm" : "[탐스] 내추럴 캔버스 코랄 外 4종택1",
+              "imgUrl" : "http://image.lotte.com/goods/43/78/33/21/5/521337843_1_280.jpg",
+              "price" : 43900,
+              "orgPrice" : 43900
+            }, {
+              "goodsNo" : 521300896,
+              "isPlanPrd" : false,
+              "goodsNm" : "[탐스] 캔버스 클래식 6컬러 택1",
+              "imgUrl" : "http://image.lotte.com/goods/96/08/30/21/5/521300896_1_280.jpg",
+              "price" : 32900,
+              "orgPrice" : 32900
+            }, {
+              "goodsNo" : 521317891,
+              "isPlanPrd" : false,
+              "goodsNm" : "[탐스] 버치 튠드라 外 클래식 5종택1",
+              "imgUrl" : "http://image.lotte.com/goods/91/78/31/21/5/521317891_1_280.jpg",
+              "price" : 37900,
+              "orgPrice" : 37900
+            }, {
+              "goodsNo" : 522808847,
+              "isPlanPrd" : true,
+              "goodsNm" : "[탐스] 여름시즌 인기 샌들/뮬 택1",
+              "imgUrl" : "http://image.lotte.com/goods/47/88/80/22/5/522808847_2_280.jpg",
+              "price" : 71200,
+              "orgPrice" : 89000
+            } ],
+            "total_count" : 4
+          }
+        }, {
+          "moduleId" : "M2008",
+          "moduleNm" : "체험단|프로모션배너C형",
+          "btmTxt" : "♡LOSSOM STUDIO♡\n무료배송 이벤트!",
+          "imgUrl" : "http://image.lotte.com/upload/display/main/33482_186602_212403_20180605152523.jpg",
+          "linkUrl" : "http://m.lotte.com/product/m/product_list.do?curDispNo=5436468",
+          "randomCd" : "N",
+          "isOutLink" : false,
+          "blankCd" : "20",
+          "tclick" : "m_RDC_main_5570109_M2008_2"
+        }, {
+          "moduleId" : "M2001",
+          "moduleNm" : "오늘도착|타이틀",
+          "topTxt" : "뷰티 PICK!",
+          "btmTxt" : "여름 햇살같은 생기를 입술에★",
+          "blankCd" : "10",
+          "tclick" : "m_RDC_main_5570109_M2001_6"
+        }, {
+          "moduleId" : "M2008",
+          "moduleNm" : "오늘도착|프로모션배너C형",
+          "btmTxt" : "얼굴에 생기 가득!\n레드 오렌지 틴트 4종 비교!",
+          "imgUrl" : "http://image.lotte.com/upload/display/main/32470_198409_224316_20180607180901.jpg",
+          "linkUrl" : "http://m.lotte.com/product/m/product_list.do?curDispNo=5442273&tclick=rot",
+          "randomCd" : "N",
+          "isOutLink" : false,
+          "blankCd" : "10",
+          "tclick" : "m_RDC_main_5570109_M2008_3"
+        }, {
+          "moduleId" : "M2001",
+          "moduleNm" : "베스트브랜드|타이틀",
+          "btmTxt" : "베스트 브랜드 몰",
+          "blankCd" : "10",
+          "tclick" : "m_RDC_main_5570109_M2001_7"
+        }, {
+          "moduleId" : "M2004",
+          "moduleNm" : "베스트브랜드|서비스배너",
+          "blankCd" : "20",
+          "tclick" : "m_RDC_main_5570109_M2004_5",
+          "items" : [ {
+            "txt" : "GUCCI",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/32473_142261_159461_20180608133747.png",
+            "linkUrl" : "http://m.lotte.com/mall/gucci/gucci_main.do?c=mlotte&udid=&v=&cn=&cdn=&schema=&tclick=m_DC_side_cate_specialshop_Gucci&c=mlotte&udid=&v=&cn=&cdn=",
+            "isOutLink" : false
+          }, {
+            "txt" : "SK-II",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/32473_142261_159462_20180608133747.png",
+            "linkUrl" : "http://m.lotte.com/category/m/brand_prod_list.do?c=mlotte&udid=&v=&cn=&cdn=&schema=&upBrdNo=30245",
+            "isOutLink" : false
+          }, {
+            "txt" : "LG전자",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/32473_199056_225456_20180608133836.png",
+            "linkUrl" : "http://m.lotte.com/category/m/brand_prod_list.do?c=mlotte&udid=&v=&cn=&cdn=&schema=&upBrdNo=30157",
+            "isOutLink" : false
+          }, {
+            "txt" : "쌤소나이트",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/32473_186404_212208_20180608133747.png",
+            "linkUrl" : "http://m.lotte.com/mall/spec_mall.do?c=mlotte&udid=&v=&cn=&cdn=&dispNo=5571254",
+            "isOutLink" : false
+          } ],
+          "total_count" : 4
+        }, {
+          "moduleId" : "M2001",
+          "moduleNm" : "추천카테고리|타이틀",
+          "btmTxt" : "금주 카테고리별 추천",
+          "blankCd" : "10",
+          "tclick" : "m_RDC_main_5570109_M2001_9"
+        }, {
+          "moduleId" : "M2007",
+          "moduleNm" : "추천카테고리|프로모션배너B형",
+          "randomCd" : "A",
+          "blankCd" : "10",
+          "tclick" : "m_RDC_main_5570109_M2007_1",
+          "items" : [ {
+            "btmTxt" : "버켄스탁/핏플랍 外\n샌들&슬리퍼 15% Sale",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/32528_199238_225166_20180608153440.jpg",
+            "linkUrl" : "http://m.lotte.com/product/m/product_list.do?curDispNo=5358243",
+            "isOutLink" : false
+          }, {
+            "btmTxt" : "텐티스테 단독 특가!\n9,900원 이상 무배★",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/32528_197809_224225_20180607104306.jpg",
+            "linkUrl" : "http://m.lotte.com/product/m/product_list.do?curDispNo=5409235",
+            "isOutLink" : false
+          }, {
+            "btmTxt" : "데상트 패밀리 위크\n단독상품+적립혜택!",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/32528_199239_225169_20180608142231.jpg",
+            "linkUrl" : "http://m.lotte.com/product/m/product_list.do?curDispNo=5341585",
+            "isOutLink" : false
+          }, {
+            "btmTxt" : "MLBB의 독보적인 진화\nNEW 번트 오렌지 컬렉션",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/32528_199240_225172_20180608173452.jpg",
+            "linkUrl" : "http://m.lotte.com/product/m/product_list.do?curDispNo=5024949",
+            "isOutLink" : false
+          }, {
+            "btmTxt" : "HOT PRE-SUMMER\n물놀이 완구 제안전!",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/32528_195449_221850_20180601164310.jpg",
+            "linkUrl" : "http://m.lotte.com/product/m/product_list.do?curDispNo=5441073",
+            "isOutLink" : false
+          } ],
+          "total_count" : 5
+        }, {
+          "moduleId" : "M2010",
+          "moduleNm" : "추천카테고리|인기카테고리",
+          "blankCd" : "10",
+          "tclick" : "m_RDC_main_5570109_M2010_1",
+          "items" : [ {
+            "txt" : "스타일",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/32529_132209_147629_20180320175156.jpg",
+            "linkUrl" : "http://m.lotte.com/main_phone.do?=&dispNo=5570122",
+            "isOutLink" : false
+          }, {
+            "txt" : "라이프",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/32529_132209_147630_20180214151056.png",
+            "linkUrl" : "http://m.lotte.com/main_phone.do?=&dispNo=5570124",
+            "isOutLink" : false
+          }, {
+            "txt" : "레포츠/펫",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/32529_132209_147631_20180320174237.jpg",
+            "linkUrl" : "http://m.lotte.com/main_phone.do?=&dispNo=5570114",
+            "isOutLink" : false
+          }, {
+            "txt" : "♥키즈",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/32529_132209_147632_20180214151056.png",
+            "linkUrl" : "http://m.lotte.com/main_phone.do?=&dispNo=5570116",
+            "isOutLink" : false
+          }, {
+            "txt" : "백화점",
+            "imgUrl" : "http://image.lotte.com/upload/display/main/32529_132209_147633_20180208110223.jpg",
+            "linkUrl" : "http://m.lotte.com/main_phone.do?=&dispNo=5570118",
+            "isOutLink" : false
+          } ],
+          "total_count" : 5
+        }, {
+          "moduleId" : "M2036",
+          "moduleNm" : "인기검색어|인기검색어",
+          "blankCd" : "30",
+          "tclick" : "m_RDC_main_5570109_M2036",
+          "items" : [ {
+            "rank" : 1,
+            "keyword" : "여성원피스",
+            "prdList" : {
+              "items" : [ {
+                "goodsNo" : 491969396,
+                "imgUrl" : "http://image.lotte.com/goods/96/93/96/91/4/491969396_1_280.jpg"
+              }, {
+                "goodsNo" : 503809285,
+                "imgUrl" : "http://image.lotte.com/goods/85/92/80/03/5/503809285_1_280.jpg"
+              }, {
+                "goodsNo" : 487330770,
+                "imgUrl" : "http://image.lotte.com/goods/70/07/33/87/4/487330770_1_280.jpg"
+              }, {
+                "goodsNo" : 519398401,
+                "imgUrl" : "http://image.lotte.com/goods/01/84/39/19/5/519398401_1_280.jpg"
+              }, {
+                "goodsNo" : 494688545,
+                "imgUrl" : "http://image.lotte.com/goods/45/85/68/94/4/494688545_1_280.jpg"
+              }, {
+                "goodsNo" : 518286599,
+                "imgUrl" : "http://image.lotte.com/goods/99/65/28/18/5/518286599_1_280.jpg"
+              }, {
+                "goodsNo" : 495386998,
+                "imgUrl" : "http://image.lotte.com/goods/98/69/38/95/4/495386998_1_280.jpg"
+              }, {
+                "goodsNo" : 518978528,
+                "imgUrl" : "http://image.lotte.com/goods/28/85/97/18/5/518978528_1_280.jpg"
+              } ],
+              "total_count" : 8
+            }
+          }, {
+            "rank" : 2,
+            "keyword" : "스트랩샌들",
+            "prdList" : {
+              "items" : [ {
+                "goodsNo" : 382570002,
+                "imgUrl" : "http://image.lotte.com/goods/02/00/57/82/3/382570002_1_280.jpg"
+              }, {
+                "goodsNo" : 505488980,
+                "imgUrl" : "http://image.lotte.com/goods/80/89/48/05/5/505488980_1_280.jpg"
+              }, {
+                "goodsNo" : 498935911,
+                "imgUrl" : "http://image.lotte.com/goods/11/59/93/98/4/498935911_4_280.jpg"
+              }, {
+                "goodsNo" : 498450248,
+                "imgUrl" : "http://image.lotte.com/goods/48/02/45/98/4/498450248_1_280.jpg"
+              }, {
+                "goodsNo" : 514305299,
+                "imgUrl" : "http://image.lotte.com/goods/99/52/30/14/5/514305299_1_280.jpg"
+              }, {
+                "goodsNo" : 508089839,
+                "imgUrl" : "http://image.lotte.com/goods/39/98/08/08/5/508089839_1_280.jpg"
+              }, {
+                "goodsNo" : 505444663,
+                "imgUrl" : "http://image.lotte.com/goods/63/46/44/05/5/505444663_1_280.jpg"
+              }, {
+                "goodsNo" : 483120206,
+                "imgUrl" : "http://image.lotte.com/goods/06/02/12/83/4/483120206_1_280.jpg"
+              } ],
+              "total_count" : 8
+            }
+          }, {
+            "rank" : 3,
+            "keyword" : "라탄슬리퍼",
+            "prdList" : {
+              "items" : [ {
+                "goodsNo" : 510669731,
+                "imgUrl" : "http://image.lotte.com/goods/31/97/66/10/5/510669731_1_280.jpg"
+              }, {
+                "goodsNo" : 510669746,
+                "imgUrl" : "http://image.lotte.com/goods/46/97/66/10/5/510669746_1_280.jpg"
+              }, {
+                "goodsNo" : 517023250,
+                "imgUrl" : "http://image.lotte.com/goods/50/32/02/17/5/517023250_1_280.jpg"
+              }, {
+                "goodsNo" : 501711105,
+                "imgUrl" : "http://image.lotte.com/goods/05/11/71/01/5/501711105_1_280.jpg"
+              }, {
+                "goodsNo" : 501935135,
+                "imgUrl" : "http://image.lotte.com/goods/35/51/93/01/5/501935135_1_280.jpg"
+              }, {
+                "goodsNo" : 523388656,
+                "imgUrl" : "http://image.lotte.com/goods/56/86/38/23/5/523388656_1_280.jpg"
+              }, {
+                "goodsNo" : 522688993,
+                "imgUrl" : "http://image.lotte.com/goods/93/89/68/22/5/522688993_1_280.jpg"
+              }, {
+                "goodsNo" : 511136669,
+                "imgUrl" : "http://image.lotte.com/goods/69/66/13/11/5/511136669_1_280.jpg"
+              } ],
+              "total_count" : 8
+            }
+          }, {
+            "rank" : 4,
+            "keyword" : "스퀘어넥 블라우스",
+            "prdList" : {
+              "items" : [ {
+                "goodsNo" : 507269070,
+                "imgUrl" : "http://image.lotte.com/goods/70/90/26/07/5/507269070_1_280.jpg"
+              }, {
+                "goodsNo" : 489589282,
+                "imgUrl" : "http://image.lotte.com/goods/82/92/58/89/4/489589282_1_280.jpg"
+              }, {
+                "goodsNo" : 522668851,
+                "imgUrl" : "http://image.lotte.com/goods/51/88/66/22/5/522668851_1_280.jpg"
+              }, {
+                "goodsNo" : 506838367,
+                "imgUrl" : "http://image.lotte.com/goods/67/83/83/06/5/506838367_1_280.jpg"
+              }, {
+                "goodsNo" : 523293022,
+                "imgUrl" : "http://image.lotte.com/goods/22/30/29/23/5/523293022_1_280.jpg"
+              }, {
+                "goodsNo" : 514783160,
+                "imgUrl" : "http://image.lotte.com/goods/60/31/78/14/5/514783160_1_280.jpg"
+              }, {
+                "goodsNo" : 523225177,
+                "imgUrl" : "http://image.lotte.com/goods/77/51/22/23/5/523225177_1_280.jpg"
+              }, {
+                "goodsNo" : 509652706,
+                "imgUrl" : "http://image.lotte.com/goods/06/27/65/09/5/509652706_1_280.jpg"
+              } ],
+              "total_count" : 8
+            }
+          }, {
+            "rank" : 5,
+            "keyword" : "세컨플로어",
+            "prdList" : {
+              "items" : [ {
+                "goodsNo" : 502379332,
+                "imgUrl" : "http://image.lotte.com/goods/32/93/37/02/5/502379332_1_280.jpg"
+              }, {
+                "goodsNo" : 488353254,
+                "imgUrl" : "http://image.lotte.com/goods/54/32/35/88/4/488353254_1_280.jpg"
+              }, {
+                "goodsNo" : 337753856,
+                "imgUrl" : "http://image.lotte.com/goods/56/38/75/37/3/337753856_1_280.jpg"
+              }, {
+                "goodsNo" : 430768385,
+                "imgUrl" : "http://image.lotte.com/goods/85/83/76/30/4/430768385_1_280.jpg"
+              }, {
+                "goodsNo" : 502379206,
+                "imgUrl" : "http://image.lotte.com/goods/06/92/37/02/5/502379206_1_280.jpg"
+              }, {
+                "goodsNo" : 502379324,
+                "imgUrl" : "http://image.lotte.com/goods/24/93/37/02/5/502379324_1_280.jpg"
+              }, {
+                "goodsNo" : 502379247,
+                "imgUrl" : "http://image.lotte.com/goods/47/92/37/02/5/502379247_1_280.jpg"
+              }, {
+                "goodsNo" : 502379303,
+                "imgUrl" : "http://image.lotte.com/goods/03/93/37/02/5/502379303_1_280.jpg"
+              } ],
+              "total_count" : 8
+            }
+          } ],
+          "total_count" : 5
+        }, {
+          "moduleId" : "M2034",
+          "moduleNm" : "카테고리딜|카테고리딜",
+          "randomCd" : "A",
+          "title" : "카테고리별 빅딜",
+          "blankCd" : "40",
+          "tclick" : "m_RDC_main_5570109",
+          "items" : [ {
+            "dispNo" : 5589830,
+            "imgUrl" : "http://image.lotte.com/upload/display/disp_shop/5589696_20180514105523.png",
+            "txt" : "롯데셀렉샵",
+            "dealList" : {
+              "items" : [ {
+                "goodsNo" : 449892119,
+                "isPlanPrd" : false,
+                "goodsNm" : "[바로배송] 옹알이 콩콩이",
+                "imgUrl" : "http://image.lotte.com/goods/19/21/89/49/4/449892119_20180319142324.jpg",
+                "price" : 25830,
+                "isSoldOut" : false,
+                "saleRate" : 5,
+                "isCoupon" : true,
+                "saleCnt" : 0,
+                "mdTip" : "울고 웃고 말하는 내동생 콩콩이!",
+                "flag" : [ "smartpick" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 449889179,
+                "isPlanPrd" : false,
+                "goodsNm" : "[바로배송] 시크릿 공주도장 꾸미기/스탬프놀이/도장놀이",
+                "imgUrl" : "http://image.lotte.com/goods/79/91/88/49/4/449889179_20180319143506.jpg",
+                "price" : 26790,
+                "isSoldOut" : false,
+                "saleRate" : 6,
+                "isCoupon" : true,
+                "saleCnt" : 0,
+                "mdTip" : "콩콩 도장찍고 예쁜 편지 써서 친구에게~",
+                "flag" : [ "smartpick" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 476444881,
+                "isPlanPrd" : false,
+                "goodsNm" : "[바로배송] 콩순이 돌보기 콩콩이",
+                "imgUrl" : "http://image.lotte.com/goods/81/48/44/76/4/476444881_20180319104731.jpg",
+                "price" : 21000,
+                "isSoldOut" : false,
+                "saleRate" : 9,
+                "isCoupon" : true,
+                "saleCnt" : 0,
+                "mdTip" : "소중한 동생 콩콩이를 안아줘요♡",
+                "flag" : [ "smartpick" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 476429106,
+                "isPlanPrd" : false,
+                "goodsNm" : "[바로배송] B-85 [부스터] 킬러 데스사이저.2V.Hn",
+                "imgUrl" : "http://image.lotte.com/goods/06/91/42/76/4/476429106_20180319134616.jpg",
+                "price" : 10700,
+                "isSoldOut" : false,
+                "saleRate" : 9,
+                "isCoupon" : true,
+                "saleCnt" : 0,
+                "mdTip" : "2단 공격용 가동식 칼날이 내장!!강력하게!",
+                "flag" : [ "smartpick" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 457467451,
+                "isPlanPrd" : false,
+                "goodsNm" : "[바로배송] 다이노코어3 얼티밋 디버스터 티라노",
+                "imgUrl" : "http://image.lotte.com/goods/51/74/46/57/4/457467451_20180319141506.jpg",
+                "price" : 80510,
+                "isSoldOut" : false,
+                "saleRate" : 4,
+                "isCoupon" : true,
+                "saleCnt" : 0,
+                "mdTip" : "최강 8단 합체로봇!",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              } ],
+              "total_count" : 5
+            }
+          }, {
+            "dispNo" : 5573963,
+            "imgUrl" : "http://image.lotte.com/upload/display/disp_shop/5573823_20171205185555.png",
+            "txt" : "잡화/슈즈/명품",
+            "dealList" : {
+              "items" : [ {
+                "goodsNo" : 360954392,
+                "isPlanPrd" : true,
+                "goodsNm" : "[락피쉬] BEST 데일리 아이템!",
+                "imgUrl" : "http://image.lotte.com/upload/display/mobile_banner/5573966_360954392_20180612104113.jpg",
+                "price" : 23120,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 225,
+                "mdTip" : "락피쉬만의 매력통통 슈즈!",
+                "flag" : [ "dept", "smartpick" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 306997213,
+                "isPlanPrd" : true,
+                "goodsNm" : "[탠디]★단독특가★ 남/여 수제화 BEST 모음",
+                "imgUrl" : "http://image.lotte.com/goods/13/72/99/06/3/306997213_20180608165105.jpg",
+                "price" : 89000,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 105,
+                "mdTip" : "매일 신고싶은 품격의 남녀슈즈",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 324518768,
+                "isPlanPrd" : true,
+                "goodsNm" : "[골든듀] 감성자극 패션 주얼리",
+                "imgUrl" : "http://image.lotte.com/goods/68/87/51/24/3/324518768_20180612095946.jpg",
+                "price" : 219800,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 24,
+                "mdTip" : "골든듀와 함께 모든 순간을 아름답게",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 279313666,
+                "isPlanPrd" : true,
+                "goodsNm" : "미리준비하는 시즌 선글라스 대전!",
+                "imgUrl" : "http://image.lotte.com/goods/66/36/31/79/2/279313666_20180611143150.jpg",
+                "price" : 26100,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 356,
+                "mdTip" : "시즌오프! 명품선글라스 할인전!",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 362050623,
+                "isPlanPrd" : true,
+                "goodsNm" : "[만다리나덕]NEW & BEST ITEM!",
+                "imgUrl" : "http://image.lotte.com/upload/display/mobile_banner/5573963_362050623_20180608180206.jpg",
+                "price" : 61200,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 39,
+                "mdTip" : "셀럽들의 스타일 따라잡기!",
+                "flag" : [ "dept", "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              } ],
+              "total_count" : 5
+            }
+          }, {
+            "dispNo" : 5573957,
+            "imgUrl" : "http://image.lotte.com/upload/display/disp_shop/5573822.png",
+            "txt" : "뷰티/헬스",
+            "dealList" : {
+              "items" : [ {
+                "goodsNo" : 350751355,
+                "isPlanPrd" : true,
+                "goodsNm" : "[에스티로더]더블웨어 파운데이션(미니엔비립스틱+아메리카노증정) 外",
+                "imgUrl" : "http://image.lotte.com/goods/55/13/75/50/3/350751355_20180612142931.jpg",
+                "price" : 58650,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 1029,
+                "mdTip" : "에스티로더 베스트 밸류 세트 모음",
+                "flag" : [ "dept", "freeDlv", "present", "smartpick" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 510591300,
+                "isPlanPrd" : true,
+                "goodsNm" : "뷰티 Age20\u0027s / 루나 / 포인트 3대브랜드 특별할인전!",
+                "imgUrl" : "http://image.lotte.com/goods/00/13/59/10/5/510591300_20180611104654.jpg",
+                "price" : 33920,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 40,
+                "mdTip" : "20% 다운로드 쿠폰혜택 ♥ 견미리팩트外",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 178370457,
+                "isPlanPrd" : true,
+                "goodsNm" : "[실크테라피] 오리지널 에센스 헤어케어 대전",
+                "imgUrl" : "http://image.lotte.com/goods/57/04/37/78/1/178370457_20180608154032.jpg",
+                "price" : 23990,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 130,
+                "mdTip" : "단독 구성! 최대 할인특가를 만나보세요!",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 270426446,
+                "isPlanPrd" : true,
+                "goodsNm" : "[RMK]리퀴드 파운데이션 세트 外 스페셜 세트 모음전",
+                "imgUrl" : "http://image.lotte.com/goods/46/64/42/70/2/270426446_20180612134206.jpg",
+                "price" : 44200,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 584,
+                "mdTip" : "하루종일 완벽하게",
+                "flag" : [ "dept", "freeDlv", "present", "smartpick" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 502839827,
+                "isPlanPrd" : true,
+                "goodsNm" : "바른자세 보호대 7종 택1/자세고정밴드/허리보호대/몸매관리 보호대/다리보정밴드",
+                "imgUrl" : "http://image.lotte.com/goods/27/98/83/02/5/502839827_20180607092822.jpg",
+                "price" : 12810,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 101,
+                "mdTip" : "어깨펴고 숨겨진 라인 찾자~!",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              } ],
+              "total_count" : 5
+            }
+          }, {
+            "dispNo" : 5574014,
+            "imgUrl" : "http://image.lotte.com/upload/display/disp_shop/5573829_20180514105503.png",
+            "txt" : "유아동",
+            "dealList" : {
+              "items" : [ {
+                "goodsNo" : 353937793,
+                "isPlanPrd" : false,
+                "goodsNm" : "[당일배송]BOGS 유아 손잡이장화/ 유아레인부츠 아동장화 유아장화  7종 택 1",
+                "imgUrl" : "http://image.lotte.com/goods/93/77/93/53/3/353937793_20180528185645.jpg",
+                "price" : 30380,
+                "isSoldOut" : false,
+                "saleRate" : 38,
+                "isCoupon" : true,
+                "saleCnt" : 5,
+                "mdTip" : "비온대요! 레인부츠는 보그스로♡",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 517085710,
+                "isPlanPrd" : true,
+                "goodsNm" : "[버키/아발론/인텍스] 유아 물놀이 튜브/보행기튜브/래쉬가드 外 택1",
+                "imgUrl" : "http://image.lotte.com/goods/10/57/08/17/5/517085710_20180607135946.jpg",
+                "price" : 25130,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 835,
+                "mdTip" : "♥시선집중! 우리 아이 물놀이 핫 Item♥",
+                "flag" : [ "" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 492106981,
+                "isPlanPrd" : true,
+                "goodsNm" : "젤리팝 유모차 쿨시트 젤리시트 모음전",
+                "imgUrl" : "http://image.lotte.com/goods/81/69/10/92/4/492106981_20180608113245.jpg",
+                "price" : 18220,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 433,
+                "mdTip" : "우리 아기 무더위 극복 !!",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 397091603,
+                "isPlanPrd" : true,
+                "goodsNm" : "[노스페이스키즈]핫썸머 준비 완료! 샌들/반팔/래시가드外",
+                "imgUrl" : "http://image.lotte.com/upload/display/mobile_banner/5574014_397091603_20180607170701.jpg",
+                "price" : 21280,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 192,
+                "mdTip" : "시원하고 상큼하게 입혀주세요!",
+                "flag" : [ "dept", "present", "smartpick" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 503885904,
+                "isPlanPrd" : true,
+                "goodsNm" : "유아 승용완구 자전거/킥보드/웨건/붕붕카/전동차 BEST만 모아!",
+                "imgUrl" : "http://image.lotte.com/goods/04/59/88/03/5/503885904_20180608111118.jpg",
+                "price" : 65900,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 1062,
+                "mdTip" : "씽씽 달려보자! 자전거/킥보드/웨건 타고~!",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true
+              } ],
+              "total_count" : 5
+            }
+          }, {
+            "dispNo" : 5573980,
+            "imgUrl" : "http://image.lotte.com/upload/display/disp_shop/5573825_20180608114103.png",
+            "txt" : "스포츠/레저",
+            "dealList" : {
+              "items" : [ {
+                "goodsNo" : 475289705,
+                "isPlanPrd" : true,
+                "goodsNm" : "[안다르]휘트니스웨어 상의/하의 택1",
+                "imgUrl" : "http://image.lotte.com/upload/display/mobile_banner/5599373_475289705_20180608152036.jpg",
+                "price" : 14400,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 810,
+                "mdTip" : "핫한 신상입고 오늘부터 운동하자!",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 521709220,
+                "isPlanPrd" : true,
+                "goodsNm" : "[휠라]닷컴 단독 멀티컬러 반팔T 입고外 신상 10%적립혜택!",
+                "imgUrl" : "http://image.lotte.com/goods/20/92/70/21/5/521709220_20180611110218.jpg",
+                "price" : 29000,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 184,
+                "mdTip" : "닷컴 단독 반팔 입고 + 신상 10%추가적립",
+                "flag" : [ "dept" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 239916753,
+                "isPlanPrd" : true,
+                "goodsNm" : "[크록스키즈] 트레이닝/티셔츠/래쉬가드 外 택1",
+                "imgUrl" : "http://image.lotte.com/goods/53/67/91/39/2/239916753_20180604103152.jpg",
+                "price" : 21530,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 1127,
+                "mdTip" : "사은품증정 행사중★",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 470140840,
+                "isPlanPrd" : true,
+                "goodsNm" : "[컬럼비아]성인/아동 4계절 BEST 초특가 행사",
+                "imgUrl" : "http://image.lotte.com/goods/40/08/14/70/4/470140840_20180608182225.jpg",
+                "price" : 10900,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 1215,
+                "mdTip" : "인기 할인전! 아동용에서 성인까지!",
+                "flag" : [ "smartpick" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 441068795,
+                "isPlanPrd" : true,
+                "goodsNm" : "[네파]지금부터 입기 좋은 인기의류 추천!",
+                "imgUrl" : "http://image.lotte.com/upload/display/mobile_banner/5599371_441068795_20180611174101.jpg",
+                "price" : 23460,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 528,
+                "mdTip" : "요즘 날씨에 뭘 입을까 고민이라면??",
+                "flag" : [ "dept", "smartpick" ],
+                "isWideImg" : true
+              } ],
+              "total_count" : 5
+            }
+          }, {
+            "dispNo" : 5573969,
+            "imgUrl" : "http://image.lotte.com/upload/display/disp_shop/5573824_20180514105548.png",
+            "txt" : "의류/속옷",
+            "dealList" : {
+              "items" : [ {
+                "goodsNo" : 451601163,
+                "isPlanPrd" : true,
+                "goodsNm" : "[지오다노] ♥정우성도 반한 지오다노 it템 100종 특가!♥",
+                "imgUrl" : "http://image.lotte.com/goods/63/11/60/51/4/451601163_20180612153007.jpg",
+                "price" : 6080,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 22790,
+                "mdTip" : "멋남/멋녀의 이유있는 패션 아이템",
+                "flag" : [ "smartpick" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 478953175,
+                "isPlanPrd" : true,
+                "goodsNm" : "[타미힐피거]미리만나는 시즌오프 30%!",
+                "imgUrl" : "http://image.lotte.com/upload/display/mobile_banner/5599366_478953175_20180511133002.jpg",
+                "price" : 42840,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 688,
+                "mdTip" : "매일매일 입는 데일리 룩 제안!",
+                "flag" : [ "dept", "freeDlv", "present", "smartpick" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 518376343,
+                "isPlanPrd" : true,
+                "goodsNm" : "[쉬즈미스] 민소매 니트/셔츠/원피스外~",
+                "imgUrl" : "http://image.lotte.com/goods/43/63/37/18/5/518376343_20180612111503.jpg",
+                "price" : 12000,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 664,
+                "mdTip" : "안 사면 후회할 걸~",
+                "flag" : [ "dept" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 510722947,
+                "isPlanPrd" : true,
+                "goodsNm" : "[타미힐피거] 라운드/카라/피케티셔츠 택1",
+                "imgUrl" : "http://image.lotte.com/goods/47/29/72/10/5/510722947_20180612100606.jpg",
+                "price" : 15800,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 569,
+                "mdTip" : "★18S/S 시즌오프 인기아이템★",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 480757310,
+                "isPlanPrd" : true,
+                "goodsNm" : "[랩/플라]데일리룩으로 딱! 퀄리티&가격 GOOD 예쁜 코디 득템! 여름 블라우스/원피스外",
+                "imgUrl" : "http://image.lotte.com/upload/display/mobile_banner/5599315_480757310_20180604170700.jpg",
+                "price" : 9900,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 224,
+                "mdTip" : "이쁘게 여름 보내기★ 인기 데일리룩",
+                "flag" : [ "dept", "smartpick" ],
+                "isWideImg" : true
+              } ],
+              "total_count" : 5
+            }
+          }, {
+            "dispNo" : 5574000,
+            "imgUrl" : "http://image.lotte.com/upload/display/disp_shop/5573827_20180125134304.png",
+            "txt" : "가전/가구/침구",
+            "dealList" : {
+              "items" : [ {
+                "goodsNo" : 483079981,
+                "isPlanPrd" : true,
+                "goodsNm" : "[다이슨] IoT 공기청정 선풍기/에어멀티플라이어 모음*",
+                "imgUrl" : "http://image.lotte.com/goods/81/99/07/83/4/483079981_20180607162749.jpg",
+                "price" : 574660,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 128,
+                "mdTip" : "부드럽고 강한 바람으로 공기를 정화하자!",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 152525418,
+                "isPlanPrd" : true,
+                "goodsNm" : "에몬스홈 베스트상품 할인전",
+                "imgUrl" : "http://image.lotte.com/goods/18/54/52/52/1/152525418_20180330170801.jpg",
+                "price" : 418140,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 312,
+                "mdTip" : "확! 넓어진 거실의 비밀이 쇼파라고?",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 379091489,
+                "isPlanPrd" : true,
+                "goodsNm" : "●[ASUS] 가성비갑 노트북/PC 총집결",
+                "imgUrl" : "http://image.lotte.com/goods/89/14/09/79/3/379091489_20180529160301.jpg",
+                "price" : 322140,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 57,
+                "mdTip" : "MD가 추천하는 아수스의 신개념 노트북!",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 501221021,
+                "isPlanPrd" : true,
+                "goodsNm" : "까사미아, ★온라인 단독 최저가★ 수납가구 인기템",
+                "imgUrl" : "http://image.lotte.com/goods/21/10/22/01/5/501221021_20180605173033.jpg",
+                "price" : 195560,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 17,
+                "mdTip" : "모두들 예쁘다 하는 가구! 까사미아 까사온",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 182036525,
+                "isPlanPrd" : true,
+                "goodsNm" : "[세사] 알러지케어 신상 침구&카페트!",
+                "imgUrl" : "http://image.lotte.com/goods/25/65/03/82/1/182036525_20180611175407.jpg",
+                "price" : 67200,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 382,
+                "mdTip" : "세상 깔끔한 세사 이불 신상!",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true
+              } ],
+              "total_count" : 5
+            }
+          }, {
+            "dispNo" : 5573990,
+            "imgUrl" : "http://image.lotte.com/upload/display/disp_shop/5573826_20171205185709.png",
+            "txt" : "반려/여행/취미",
+            "dealList" : {
+              "items" : [ {
+                "goodsNo" : 518303853,
+                "isPlanPrd" : true,
+                "goodsNm" : "[힐스]강아지를 위한 건강 맞춤형 영양사료",
+                "imgUrl" : "http://image.lotte.com/goods/53/38/30/18/5/518303853_20180608164848.jpg",
+                "price" : 16000,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 115,
+                "mdTip" : "힐스펫 전세계 수의사들이 인정한 사료!",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 346255156,
+                "isPlanPrd" : true,
+                "goodsNm" : "디지털피아노/바이올린 매력있는 악기들의 특가 뽐내기!",
+                "imgUrl" : "http://image.lotte.com/goods/56/51/25/46/3/346255156_20180315114100.jpg",
+                "price" : 218000,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 130,
+                "mdTip" : "우리아이 악기 고민 끝! 한자리에서 골라요",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 396609980,
+                "isPlanPrd" : true,
+                "goodsNm" : "고품격 호텔 레스토랑 프로모션 모음!",
+                "imgUrl" : "http://image.lotte.com/goods/80/99/60/96/3/396609980_20180525204702.jpg",
+                "price" : 45050,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 1279,
+                "mdTip" : "가심비 최강! 연인과 함께, 가족과 함께~",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 489579889,
+                "isPlanPrd" : true,
+                "goodsNm" : "반려동물 건강을 제대로 챙겨주자!",
+                "imgUrl" : "http://image.lotte.com/goods/89/98/57/89/4/489579889_20180612142222.jpg",
+                "price" : 1560,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 3814,
+                "mdTip" : "멍냥이 건강은 롯데닷컴으로 지키자♡",
+                "flag" : [ "" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 510574300,
+                "isPlanPrd" : true,
+                "goodsNm" : "대박 할인 가격으로 만나는 카시트 모음",
+                "imgUrl" : "http://image.lotte.com/goods/00/43/57/10/5/510574300_20180531094617.jpg",
+                "price" : 148500,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 7,
+                "mdTip" : "단순 박스 개봉 상품으로 깨끗해요",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true
+              } ],
+              "total_count" : 5
+            }
+          }, {
+            "dispNo" : 5574007,
+            "imgUrl" : "http://image.lotte.com/upload/display/disp_shop/5573828_20180516110432.png",
+            "txt" : "식품/생활용품",
+            "dealList" : {
+              "items" : [ {
+                "goodsNo" : 135074377,
+                "isPlanPrd" : true,
+                "goodsNm" : "[정관장] 홍삼정 에브리타임 / 화애락진 / 홍이장군 / 홍삼정 外 ~",
+                "imgUrl" : "http://image.lotte.com/upload/display/mobile_banner/5599375_135074377_20180320174607.jpg",
+                "price" : 96000,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 72790,
+                "mdTip" : "더블적립이벤트★L포인트 최대 5%+ 6천점",
+                "flag" : [ "dept", "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 360978164,
+                "isPlanPrd" : true,
+                "goodsNm" : "[15%다운로드쿠폰할인][세계 특허 유산균 배합] 드시모네 베이비/키즈/캡슐/레귤러",
+                "imgUrl" : "http://image.lotte.com/goods/64/81/97/60/3/360978164_20180601174701.jpg",
+                "price" : 38000,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 754,
+                "mdTip" : "원료의 차이가 장 건강의 차이!",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 389026698,
+                "isPlanPrd" : true,
+                "goodsNm" : "크리넥스/스카치外 롤티슈/황사마스크/키친타올 모음!",
+                "imgUrl" : "http://image.lotte.com/goods/98/66/02/89/3/389026698_20180511104941.jpg",
+                "price" : 16450,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 1428,
+                "mdTip" : "나에게 꼭 맞는 티슈는 유한킴벌리!",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 484467790,
+                "isPlanPrd" : true,
+                "goodsNm" : "화사한 폴란드 테이블웨어 9,900원부터 균일가전",
+                "imgUrl" : "http://image.lotte.com/goods/90/77/46/84/4/484467790_20180608155342.jpg",
+                "price" : 9310,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 624,
+                "mdTip" : "아름다운 폴/란/드 테이블웨어 균일가전★",
+                "flag" : [ "" ],
+                "isWideImg" : true
+              }, {
+                "goodsNo" : 412627178,
+                "isPlanPrd" : true,
+                "goodsNm" : "올가니카 저스트주스 클렌즈 모아보기!",
+                "imgUrl" : "http://image.lotte.com/goods/78/71/62/12/4/412627178_20180611112825.jpg",
+                "price" : 48060,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 98,
+                "mdTip" : "미니 구매시,무화과햄프 3개입 추가증정!",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true
+              } ],
+              "total_count" : 5
+            }
+          } ],
+          "total_count" : 9
+        } ]
+      },
+
+      {
+        "dispNo" : 5612522,
+        "colorInfo" : {
+          "fontColor" : "#E68A97",
+          "lineColor" : "#E68A97",
+          "loadingBgColor" : "#F7D7DD",
+          "copyBgColor" : "#D998A3"
+        },
+        "moduleData" : [ {
+          "moduleId" : "M2038",
+          "moduleNm" : "#텐텐|빅딜전체",
+          "blankCd" : "30",
+          "tclick" : "m_RDC_main_5612522",
+          "dealList" : {
+            "items" : [ {
+              "dealBanner" : {
+                "imgUrl" : "http://image.lotte.com/upload/display/corner/5611800_42057_0_30_13008014_1_20180601091839.jpg",
+                "linkUrl" : "http://m.lotte.com/main_phone.do?dispNo=5612522",
+                "isOutLink" : false
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 509298692,
+                "isPlanPrd" : false,
+                "goodsNm" : "[#텐텐] 김병만의 아이러너 런닝머신 4컬러 택1",
+                "imgUrl" : "http://image.lotte.com/upload/display/mobile_banner/5611800_509298692_20180530105630.jpg",
+                "price" : 1450000,
+                "isSoldOut" : false,
+                "saleRate" : 11,
+                "isCoupon" : true,
+                "saleCnt" : 37,
+                "mdTip" : "#텐텐#아이러너 #10%할인+10%적립",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 354377124,
+                "isPlanPrd" : true,
+                "goodsNm" : "[#텐텐] 보스턴/취리히/밀라노/아리조나 샌들 슬리퍼 52종 택1",
+                "imgUrl" : "http://image.lotte.com/goods/24/71/37/54/3/354377124_20180524092020.jpg",
+                "price" : 60210,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 47,
+                "mdTip" : "내 발이 편안해하는 버켄스탁 슈즈!",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 490901516,
+                "isPlanPrd" : false,
+                "goodsNm" : "[#텐텐]크록밴드 미키 펀랩 라이트 6종 디자인선택",
+                "imgUrl" : "http://image.lotte.com/goods/16/15/90/90/4/490901516_20180607200332.jpg",
+                "price" : 35550,
+                "isSoldOut" : false,
+                "saleRate" : 10,
+                "isCoupon" : true,
+                "saleCnt" : 1875,
+                "mdTip" : "LED가 반짝반짝 ★ 크록스키즈! 텐텐특가",
+                "flag" : [ "smartpick" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 496711374,
+                "isPlanPrd" : false,
+                "goodsNm" : "[#텐텐] 오늘도착 2018 NEW UV플랩캡/캠핑햇 13종 택 1",
+                "imgUrl" : "http://image.lotte.com/goods/74/13/71/96/4/496711374_20180530101543.jpg",
+                "price" : 21510,
+                "isSoldOut" : false,
+                "saleRate" : 10,
+                "isCoupon" : true,
+                "saleCnt" : 1558,
+                "mdTip" : "엄마들 마음속 이미 찜! 베스트 UV차단 캡",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 465202330,
+                "isPlanPrd" : true,
+                "goodsNm" : "[#텐텐] 지금 입기 딱 좋은 린넨자켓/원피스外 HOT ITEM! 이쁜 데일리 코디 끝★",
+                "imgUrl" : "http://image.lotte.com/upload/display/mobile_banner/5611800_465202330_20180604163123.jpg",
+                "price" : 9900,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 648,
+                "mdTip" : "HOT SUMMER 시원하고 예쁘게 맞이하기",
+                "flag" : [ "dept", "smartpick" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 362058668,
+                "isPlanPrd" : false,
+                "goodsNm" : "[#텐텐]황후의보이차다이어트3박스(12주분)+특별증정(감귤 제주파이 1박스 +황후의 익모칡+잇트루 깔라만시",
+                "imgUrl" : "http://image.lotte.com/goods/68/86/05/62/3/362058668_20180612102316.jpg",
+                "price" : 176220,
+                "isSoldOut" : false,
+                "saleRate" : 10,
+                "isCoupon" : true,
+                "saleCnt" : 5,
+                "mdTip" : "★ 사은품 이렇게나 많이!! *&gt;_&lt;*",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 518809194,
+                "isPlanPrd" : true,
+                "goodsNm" : "[#텐텐][스케쳐스본사] 지코 스니커즈 DLT-A 택1",
+                "imgUrl" : "http://image.lotte.com/goods/94/91/80/18/5/518809194_20180531175322.jpg",
+                "price" : 64260,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 93,
+                "mdTip" : "요즘 핫한 바로 그 스타일, 최대 40%OFF",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 495174213,
+                "isPlanPrd" : true,
+                "goodsNm" : "[#텐텐]보솜이 천연코튼 & 디오가닉 기저귀 2팩~8팩까지",
+                "imgUrl" : "http://image.lotte.com/goods/13/42/17/95/4/495174213_20180604154109.jpg",
+                "price" : 14310,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 144,
+                "mdTip" : "#텐텐에서 10%할인+10%적립",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 245751357,
+                "isPlanPrd" : true,
+                "goodsNm" : "[#텐텐] 실리콘 물주머니 모음",
+                "imgUrl" : "http://image.lotte.com/goods/57/13/75/45/2/245751357_20180516183510.jpg",
+                "price" : 26100,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 157,
+                "mdTip" : "디자인만 예쁜 줄 알았는데 실용성까지!",
+                "flag" : [ "smartpick" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 505456561,
+                "isPlanPrd" : true,
+                "goodsNm" : "[#텐텐] 아티젠 여름 인기/베스트 상품 모음 外",
+                "imgUrl" : "http://image.lotte.com/goods/61/65/45/05/5/505456561_20180605205905.jpg",
+                "price" : 8820,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 420,
+                "mdTip" : "강추★이건 바로 소장각",
+                "flag" : [ "smartpick" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 326608109,
+                "isPlanPrd" : false,
+                "goodsNm" : "[#텐텐]에르고베이비 4포지션360캐리어 택1/정가250,000원★신생아패드증정",
+                "imgUrl" : "http://image.lotte.com/goods/09/81/60/26/3/326608109_20180611103951.jpg",
+                "price" : 99000,
+                "isSoldOut" : false,
+                "saleRate" : 10,
+                "isCoupon" : true,
+                "saleCnt" : 10,
+                "mdTip" : "국민아기띠 에르고베이비!",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 484858306,
+                "isPlanPrd" : false,
+                "goodsNm" : "[#텐텐] 워터스파 구강세정기 WS-V300+전용팁5개",
+                "imgUrl" : "http://image.lotte.com/goods/06/83/85/84/4/484858306_20180510171617.jpg",
+                "price" : 88200,
+                "isSoldOut" : false,
+                "saleRate" : 10,
+                "isCoupon" : true,
+                "saleCnt" : 1,
+                "mdTip" : "이제 나도 건치 미인♥!",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 486772016,
+                "isPlanPrd" : false,
+                "goodsNm" : "[#텐텐] 종근당건강 본사직영) 생유산균골드 NEW 락토핏 3통(150일분)",
+                "imgUrl" : "http://image.lotte.com/goods/16/20/77/86/4/486772016_20180515140906.jpg",
+                "price" : 39600,
+                "isSoldOut" : false,
+                "saleRate" : 10,
+                "isCoupon" : true,
+                "saleCnt" : 99,
+                "mdTip" : "우리 가족 유산균은 종근당건강 락토핏!",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 521724923,
+                "isPlanPrd" : true,
+                "goodsNm" : "[#텐텐]정식통관! 얼라이브&삼부커스 건강 기획전",
+                "imgUrl" : "http://image.lotte.com/goods/23/49/72/21/5/521724923_20180607154353.jpg",
+                "price" : 22500,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 13,
+                "mdTip" : "하루 한 알로 온가족 건강을 완성하세요~!",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 521718312,
+                "isPlanPrd" : true,
+                "goodsNm" : "[#텐텐] 휠라/프로스펙스外 아동&성인 썸머슈즈 초특가 만나보기!",
+                "imgUrl" : "http://image.lotte.com/goods/12/83/71/21/5/521718312_20180605185443.jpg",
+                "price" : 13320,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 80,
+                "mdTip" : "썸머슈즈 초특가 + 적립 찬스까지!",
+                "flag" : [ "smartpick" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 498470302,
+                "isPlanPrd" : true,
+                "goodsNm" : "[#텐텐] 락피쉬 미리썸머 BEST 아이템전 레인부츠/슬립온 득템찬스",
+                "imgUrl" : "http://image.lotte.com/goods/02/03/47/98/4/498470302_20180515135538.jpg",
+                "price" : 32400,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 102,
+                "mdTip" : "발이 편한 데일리 슈즈! 구경 GO!",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 523405635,
+                "isPlanPrd" : true,
+                "goodsNm" : "[#텐텐] 자비없는예쁨 시선강탈 블라우스/원피스外 택1",
+                "imgUrl" : "http://image.lotte.com/upload/display/mobile_banner/5611800_523405635_20180611114018.jpg",
+                "price" : 54940,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 51,
+                "mdTip" : "#텐텐 #텐텐샵 #샵텐텐 #커밍스텝",
+                "flag" : [ "dept", "freeDlv" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 469865509,
+                "isPlanPrd" : true,
+                "goodsNm" : "[#텐텐] 지금 입어야 예쁜 베스트아이템!",
+                "imgUrl" : "http://image.lotte.com/goods/09/55/86/69/4/469865509_20180605092403.jpg",
+                "price" : 8550,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 1087,
+                "mdTip" : "최대 혜택~#텐텐!",
+                "flag" : [ "smartpick" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 486767289,
+                "isPlanPrd" : false,
+                "goodsNm" : "[#텐텐] 오한진 프리바이오틱스 FOS 플러스 3개월",
+                "imgUrl" : "http://image.lotte.com/goods/89/72/76/86/4/486767289_20180516151920.jpg",
+                "price" : 48510,
+                "isSoldOut" : false,
+                "saleRate" : 10,
+                "isCoupon" : true,
+                "saleCnt" : 14,
+                "mdTip" : "장내환경개선에도움을주는유익균들의먹이",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 492567263,
+                "isPlanPrd" : true,
+                "goodsNm" : "[#텐텐]18ss신상 플랫/로퍼/펌프스/슬링백/스니커즈&이월특가",
+                "imgUrl" : "http://image.lotte.com/goods/63/72/56/92/4/492567263_20180611164737.jpg",
+                "price" : 44100,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 148,
+                "mdTip" : "데일리&오피스룩의 끝판왕!",
+                "flag" : [ "smartpick" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 456166121,
+                "isPlanPrd" : false,
+                "goodsNm" : "[#텐텐]여성 솔리드 노와이어/와이어 브라팬티 6종 택1",
+                "imgUrl" : "http://image.lotte.com/goods/21/61/16/56/4/456166121_20180611155545.jpg",
+                "price" : 19080,
+                "isSoldOut" : false,
+                "saleRate" : 10,
+                "isCoupon" : true,
+                "saleCnt" : 74,
+                "mdTip" : "데일리 언더웨어 추천각!",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 504622382,
+                "isPlanPrd" : true,
+                "goodsNm" : "[#텐텐] 대천김 재래김/파래김/돌김/도시락김 골라담기",
+                "imgUrl" : "http://image.lotte.com/goods/82/23/62/04/5/504622382_20180514171835.jpg",
+                "price" : 12510,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 228,
+                "mdTip" : "[#텐텐]에서 10%할인+10%적립",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 503202110,
+                "isPlanPrd" : true,
+                "goodsNm" : "[#텐텐] 특허덧신/양말 올삭스 단독상품 최대20족 세트 균일가 판매 무료배송",
+                "imgUrl" : "http://image.lotte.com/goods/10/21/20/03/5/503202110_20180524103734.jpg",
+                "price" : 9000,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 1028,
+                "mdTip" : "올삭스 단독 특허받은 덧신!!",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 521331241,
+                "isPlanPrd" : true,
+                "goodsNm" : "여름 신상 완소템(수영복/래쉬가드外)",
+                "imgUrl" : "http://image.lotte.com/goods/41/12/33/21/5/521331241_20180605193137.jpg",
+                "price" : 3510,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 71,
+                "mdTip" : "여름 신상 완소템! 수영복/래쉬가드",
+                "flag" : [ "" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 514907835,
+                "isPlanPrd" : false,
+                "goodsNm" : "[#텐텐] 무료배송 슬랙스 2종 빅사이즈/일자/스트레이트!",
+                "imgUrl" : "http://image.lotte.com/goods/35/78/90/14/5/514907835_20180530094243.jpg",
+                "price" : 16020,
+                "isSoldOut" : false,
+                "saleRate" : 10,
+                "isCoupon" : true,
+                "saleCnt" : 122,
+                "mdTip" : "10%적립+10%할인+무료배송!",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 486771128,
+                "isPlanPrd" : false,
+                "goodsNm" : "[#텐텐] 프로메가 클렌즈 2박스(2개월분)",
+                "imgUrl" : "http://image.lotte.com/goods/28/11/77/86/4/486771128_20180516151641.jpg",
+                "price" : 29700,
+                "isSoldOut" : false,
+                "saleRate" : 10,
+                "isCoupon" : true,
+                "saleCnt" : 12,
+                "mdTip" : "혈행개선과 체지방 감소를 한번에!",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 502286415,
+                "isPlanPrd" : true,
+                "goodsNm" : "[#텐텐] 아틀리에 인기상품 모음",
+                "imgUrl" : "http://image.lotte.com/goods/15/64/28/02/5/502286415_20180514163333.jpg",
+                "price" : 13500,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 28,
+                "mdTip" : "오덴세 요즘뜨는식기★ 아틀리에 모음전",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 486829787,
+                "isPlanPrd" : false,
+                "goodsNm" : "[#텐텐] 마그네슘 250 (575mg*120캡슐) 4개월분",
+                "imgUrl" : "http://image.lotte.com/goods/87/97/82/86/4/486829787_20180516145620.jpg",
+                "price" : 26100,
+                "isSoldOut" : false,
+                "saleRate" : 10,
+                "isCoupon" : true,
+                "saleCnt" : 1,
+                "mdTip" : "★ 그 유명한 지앤씨 마그네슘!",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 490269259,
+                "isPlanPrd" : false,
+                "goodsNm" : "[#텐텐] ++톤업 프로텍션 선 50ml (SPF42/PA+++)",
+                "imgUrl" : "http://image.lotte.com/goods/59/92/26/90/4/490269259_20180516161240.jpg",
+                "price" : 25200,
+                "isSoldOut" : false,
+                "saleRate" : 10,
+                "isCoupon" : true,
+                "saleCnt" : 18,
+                "mdTip" : "[#텐텐] 차앤박 인기상품 10%할인+ 10%적립",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 488735475,
+                "isPlanPrd" : true,
+                "goodsNm" : "[#텐텐] 볶음 헤이즐넛/브라질너트/귀리外 견과 모음전",
+                "imgUrl" : "http://image.lotte.com/goods/75/54/73/88/4/488735475_20180612154401.jpg",
+                "price" : 20250,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 143,
+                "mdTip" : "[#텐텐]에서 10%할인+10%적립",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true,
+                "tenten_url" : "http://image.lotte.com/lotte/mo2018/common/tenten.png"
+              }
+            } ],
+            "total_count" : 31
+          },
+          "ctgList" : {
+            "items" : [ {
+              "dispNo" : 5611800,
+              "dispNm" : "#텐텐",
+              "imgUrl" : "http://image.lotte.com/upload/display/disp_shop/5611798_20180509093543.png",
+              "linkUrl" : "http://m.lotte.com/json/main_new/main_contents.json?dispNo=5612522&ctgDispNo=5611800&rowsPerPage=30&preview=201806121601",
+              "curDispNoSctCd" : "78"
+            } ],
+            "total_count" : 1
+          }
+        } ]
+      },
+      {
+        "dispNo" : 5571899,
+        "colorInfo" : {
+          "fontColor" : "#7291CF",
+          "lineColor" : "#7291CF",
+          "loadingBgColor" : "#C9D7F5"
+        },
+        "moduleData" : [ {
+          "moduleId" : "M2038",
+          "moduleNm" : "빅딜전체|[자동]빅딜전체",
+          "blankCd" : "40",
+          "tclick" : "m_RDC_main_5571899",
+          "dealList" : {
+            "items" : [ {
+              "prdInfo" : {
+                "goodsNo" : 424212955,
+                "isPlanPrd" : true,
+                "goodsNm" : "[쌤소나이트] 썸머 바캉스 캐리어/백팩/크로스백 제안 택1",
+                "imgUrl" : "http://image.lotte.com/goods/55/29/21/24/4/424212955_20180612154352.jpg",
+                "price" : 84150,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 724,
+                "mdTip" : "양세종이 제안하는 백팩&캐리어",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 521753669,
+                "isPlanPrd" : true,
+                "goodsNm" : "놓치기에는 아쉬운 소장가치 있는 Summer아이템 득템가! 반팔티셔츠/린넨원피스外",
+                "imgUrl" : "http://image.lotte.com/upload/display/mobile_banner/5599321_521753669_20180605173053.jpg",
+                "price" : 17100,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 626,
+                "mdTip" : "★품절대란 린넨원피스 3만원대~ BIG찬스★",
+                "flag" : [ "dept" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 492468348,
+                "isPlanPrd" : true,
+                "goodsNm" : "18 SS PRE-SEASON OFF! 인기 상품 30% SALE",
+                "imgUrl" : "http://image.lotte.com/upload/display/mobile_banner/5574014_492468348_20180611131745.jpg",
+                "price" : 28560,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 138,
+                "mdTip" : "시즌오프 30%OFF + 15% 할인 + 9% 적립",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 457740859,
+                "isPlanPrd" : true,
+                "goodsNm" : "◈ 시원한 여름 패드/다용도 매트/대자리外",
+                "imgUrl" : "http://image.lotte.com/upload/display/mobile_banner/5571899_457740859_20180611151629.jpg",
+                "price" : 9880,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 2949,
+                "mdTip" : "시원! 폭신! 인기 여름자리 모음!",
+                "flag" : [ "" ],
+                "isWideImg" : true
+              }
+            }, {
+              "dealBanner" : {
+                "imgUrl" : "http://image.lotte.com/upload/display/corner/5571899_42057_0_30_13008014_513_20180611140102.jpg",
+                "linkUrl" : "http://m.lotte.com/planshop/planshop_view.do?spdp_no=5438115",
+                "isOutLink" : false
+              }
+            }, {
+              "dealBanner" : {
+                "imgUrl" : "http://image.lotte.com/upload/display/corner/5571899_42057_0_30_13008014_434_20180523140956.jpg",
+                "linkUrl" : "http://m.lotte.com/product/m/product_list.do?curDispNo=5439068",
+                "isOutLink" : false
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 522808847,
+                "isPlanPrd" : true,
+                "goodsNm" : "[탐스]여름시즌 인기 샌들/뮬 택1",
+                "imgUrl" : "http://image.lotte.com/goods/47/88/80/22/5/522808847_20180608181925.jpg",
+                "price" : 71200,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 140,
+                "mdTip" : "탐스 본사오픈! 여름샌들도 탐스~",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 179424057,
+                "isPlanPrd" : true,
+                "goodsNm" : "L.Point 추가 적립! 뷰티&바디로션 外 Best 최대~48%할인!",
+                "imgUrl" : "http://image.lotte.com/upload/display/mobile_banner/9999_179424057_20180601142231.gif",
+                "price" : 9900,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 4765,
+                "mdTip" : "뉴트로지나/존슨즈 外 뷰티 바디",
+                "flag" : [ "smartpick" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 335647179,
+                "isPlanPrd" : true,
+                "goodsNm" : "[금강]썸머위크!남녀 샌들/아울렛 상품 98종 택1",
+                "imgUrl" : "http://image.lotte.com/goods/79/71/64/35/3/335647179_20180611161449.jpg",
+                "price" : 20910,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 462,
+                "mdTip" : "시원한 여름을 위한 준비! 샌들 최대30%OFF",
+                "flag" : [ "smartpick" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 519649517,
+                "isPlanPrd" : true,
+                "goodsNm" : "놓칠수없다 ! 역시즌 제대로 낮췄다 30~40%가격인하",
+                "imgUrl" : "http://image.lotte.com/upload/display/mobile_banner/5599366_519649517_20180601172521.jpg",
+                "price" : 66720,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 136,
+                "mdTip" : "여름이 기다려지는 특별한 역시즌!",
+                "flag" : [ "dept", "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 458334101,
+                "isPlanPrd" : true,
+                "goodsNm" : "이태리 커피머신 가찌아 전자동 커피머신 모음전/에스프레소머신/오피스커피머신 Special Gift box증정!",
+                "imgUrl" : "http://image.lotte.com/goods/01/41/33/58/4/458334101_20180612090637.jpg",
+                "price" : 487750,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 20,
+                "mdTip" : "가찌아의 풍미를 느껴보세요!",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 235271048,
+                "isPlanPrd" : true,
+                "goodsNm" : "아놀드파마 남녀 래쉬가드세트/비키니 4PCS/비치트렁크",
+                "imgUrl" : "http://image.lotte.com/upload/display/mobile_banner/5599373_235271048_20180604172359.jpg",
+                "price" : 19500,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 201,
+                "mdTip" : "아시죠? 대세는 여전히 래쉬가드!",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 303625279,
+                "isPlanPrd" : true,
+                "goodsNm" : "New안심캡슐 눈에좋은 루테인 3통 / 아이세이프 루테인 外 상품모음전",
+                "imgUrl" : "http://image.lotte.com/upload/display/mobile_banner/5574007_303625279_20180518131045.jpg",
+                "price" : 13900,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 2548,
+                "mdTip" : "★ 안국건강 모음전 ★",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 294081595,
+                "isPlanPrd" : true,
+                "goodsNm" : "예지미인 필요한것만 쏙쏙 골라담기!",
+                "imgUrl" : "http://image.lotte.com/goods/95/15/08/94/2/294081595_20180612123300.jpg",
+                "price" : 450,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 1784,
+                "mdTip" : "내가 원하는건 다 모였다~",
+                "flag" : [ "smartpick" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 354423951,
+                "isPlanPrd" : true,
+                "goodsNm" : "[COOL~SUMMER]더운 멍냥이를 위한 시원한 COOL 아이템!",
+                "imgUrl" : "http://image.lotte.com/goods/51/39/42/54/3/354423951_20180611173914.jpg",
+                "price" : 12970,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 345,
+                "mdTip" : "[COOL~SUMMER] 시원한 COOL 아이템전",
+                "flag" : [ "smartpick" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 481238303,
+                "isPlanPrd" : true,
+                "goodsNm" : "● 2018년 에어로18단 제트18단 스탠드 / 2IN1 에어컨 모음전",
+                "imgUrl" : "http://image.lotte.com/goods/03/83/23/81/4/481238303_20180604090704.jpg",
+                "price" : 359100,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 11,
+                "mdTip" : "뛰어난 가성비 2018년형 에어컨",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true
+              }
+            }, {
+              "dealBanner" : {
+                "imgUrl" : "http://image.lotte.com/upload/display/corner/5571899_42057_0_30_13008014_501_20180530133133.jpg",
+                "linkUrl" : "http://m.lotte.com/planshop/planshop_view.do?spdp_no=5441711",
+                "isOutLink" : false
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 523373070,
+                "isPlanPrd" : false,
+                "goodsNm" : "[DASHING DIVA] 데싱디바 페디큐어 최신상 프리미엄 에디션",
+                "imgUrl" : "http://image.lotte.com/upload/display/mobile_banner/5571899_523373070_20180611170255.jpg",
+                "price" : 75910,
+                "isSoldOut" : false,
+                "saleRate" : 4,
+                "isCoupon" : true,
+                "saleCnt" : 7,
+                "mdTip" : "1초면 완성! 내 발이 예뻐지는 시간",
+                "flag" : [ "tvhome", "freeDlv" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 510052055,
+                "isPlanPrd" : true,
+                "goodsNm" : "하겐다즈 아이스크림 달달함 골라담기!!",
+                "imgUrl" : "http://image.lotte.com/goods/55/20/05/10/5/510052055_20180612132344.jpg",
+                "price" : 23160,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 9,
+                "mdTip" : "오찬 후식! \u0027미국의 맛\u0027 하겐다즈 ★",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 344607136,
+                "isPlanPrd" : true,
+                "goodsNm" : "[데상트/르꼬끄 外] 썸머 스타일링 추천 100종 택1",
+                "imgUrl" : "http://image.lotte.com/goods/36/71/60/44/3/344607136_20180611155316.jpg",
+                "price" : 37050,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 1460,
+                "mdTip" : "데상트코리아 ★ BEST ITEM 제안",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 443234173,
+                "isPlanPrd" : true,
+                "goodsNm" : "예쁜 신상 30% 할인받고 여름준비 완료 18SS BEST 상품전 外 택1",
+                "imgUrl" : "http://image.lotte.com/goods/73/41/23/43/4/443234173_20180612155522.jpg",
+                "price" : 56880,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 747,
+                "mdTip" : "보기쉽게, 베스트만 모음! 너무 갖고싶쟈나",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 385620715,
+                "isPlanPrd" : true,
+                "goodsNm" : "[초록마을] 신선/가공 BEST 골라담기",
+                "imgUrl" : "http://image.lotte.com/goods/15/07/62/85/3/385620715_20180612084153.jpg",
+                "price" : 990,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 813,
+                "mdTip" : "우리가족 먹거리는 역시 초록마을♡",
+                "flag" : [ "" ],
+                "isWideImg" : true
+              }
+            }, {
+              "dealBanner" : {
+                "imgUrl" : "http://image.lotte.com/upload/display/corner/5571899_42057_0_30_13008014_511_20180608133049.jpg",
+                "linkUrl" : "http://m.lotte.com/product/m/product_list.do?curDispNo=5442069",
+                "isOutLink" : false
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 485622246,
+                "isPlanPrd" : true,
+                "goodsNm" : "●벽걸이형/스탠드형 에어컨 냉난방기 BEST 모음",
+                "imgUrl" : "http://image.lotte.com/goods/46/22/62/85/4/485622246_20180529114709.jpg",
+                "price" : 369000,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 98,
+                "mdTip" : "동급 최강! 가성비 최강! 위니아 에어컨",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 495728994,
+                "isPlanPrd" : true,
+                "goodsNm" : "[렉스파/아이러너外]치닝디핑/로만체어/스쿼트머신/요가복/용품 모음 택1",
+                "imgUrl" : "http://image.lotte.com/goods/94/89/72/95/4/495728994_20180611105158.jpg",
+                "price" : 13390,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 3737,
+                "mdTip" : "▶런닝머신 구매 시 롯데백화점 5만원 증정",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 492446201,
+                "isPlanPrd" : true,
+                "goodsNm" : "우리집 멍멍/야옹이는 좋은것만 줄고양~♥",
+                "imgUrl" : "http://image.lotte.com/goods/01/62/44/92/4/492446201_20180612141204.jpg",
+                "price" : 10000,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 26404,
+                "mdTip" : "멍멍이 야옹이 필수용품 득템WEEK",
+                "flag" : [ "smartpick" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 495717393,
+                "isPlanPrd" : true,
+                "goodsNm" : "[버켄스탁/츄바스코外] 아즈텍/EVA마드리드/크록밴드 外 썸머슈즈 택1",
+                "imgUrl" : "http://image.lotte.com/goods/93/73/71/95/4/495717393_20180611125700.jpg",
+                "price" : 30550,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 6501,
+                "mdTip" : "썸머슈즈 BEST ITEM 추천★",
+                "flag" : [ "smartpick" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 176605885,
+                "isPlanPrd" : true,
+                "goodsNm" : "아모레퍼시픽 아이오페 슈퍼바이탈 크림 리치 mini 소용량 런칭 ♥",
+                "imgUrl" : "http://image.lotte.com/goods/85/58/60/76/1/176605885_20180612091950.jpg",
+                "price" : 42000,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 2802,
+                "mdTip" : "런칭기념 ♥ 다운로드 10% 쿠폰할인혜택",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 517093214,
+                "isPlanPrd" : true,
+                "goodsNm" : "[핏플랍/버켄스탁/나귀사外]여름슈즈 통합전! 샌들/슬리퍼 택1",
+                "imgUrl" : "http://image.lotte.com/goods/14/32/09/17/5/517093214_20180604133350.jpg",
+                "price" : 20060,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 3179,
+                "mdTip" : "여름시즌, 핫 브랜드 BEST 상품!",
+                "flag" : [ "freeDlv" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 477543037,
+                "isPlanPrd" : true,
+                "goodsNm" : "남자 직장인 여름패션제안 쿨~ 비즈니스룩!",
+                "imgUrl" : "http://image.lotte.com/upload/display/mobile_banner/5599366_477543037_20180517155248.jpg",
+                "price" : 35100,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 18720,
+                "mdTip" : "여름에 맞는 쿨~비즈니스룩으로 스타일!",
+                "flag" : [ "dept", "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 397540399,
+                "isPlanPrd" : true,
+                "goodsNm" : "헤지스남성 아울렛 50%OFF 추천아이템 택1",
+                "imgUrl" : "http://image.lotte.com/upload/display/mobile_banner/5571899_397540399_20180612132947.jpg",
+                "price" : 39860,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 7157,
+                "mdTip" : "헤지스 알고 코디가 쉬워졌다!",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 483079981,
+                "isPlanPrd" : true,
+                "goodsNm" : "●IOT 공기청정 선풍기/에어멀티플라이어 모음*",
+                "imgUrl" : "http://image.lotte.com/goods/81/99/07/83/4/483079981_20180607162749.jpg",
+                "price" : 574660,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 128,
+                "mdTip" : "부드럽고 강한 바람으로 공기를 정화하자!",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 514860590,
+                "isPlanPrd" : true,
+                "goodsNm" : "헤지스 맨/레이디스/ACC 인기상품 100종택1",
+                "imgUrl" : "http://image.lotte.com/goods/90/05/86/14/5/514860590_20180607143014.jpg",
+                "price" : 31760,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 4245,
+                "mdTip" : "다같이 모여 헤지스 패밀리 룩!",
+                "flag" : [ "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              }
+            }, {
+              "prdInfo" : {
+                "goodsNo" : 444121115,
+                "isPlanPrd" : true,
+                "goodsNm" : "★여름신상 롯.데.단.독 OPEN~! 놓치면 후회할 핫ITEM 총집합!",
+                "imgUrl" : "http://image.lotte.com/upload/display/mobile_banner/5573969_444121115_20180511175953.jpg",
+                "price" : 32150,
+                "isSoldOut" : false,
+                "saleRate" : 0,
+                "isCoupon" : false,
+                "saleCnt" : 2072,
+                "mdTip" : "지금아니면 못사! 여름신상+역시즌 특가★",
+                "flag" : [ "dept", "freeDlv", "smartpick" ],
+                "isWideImg" : true
+              }
+            } ],
+            "total_count" : 34
+          },
+          "ctgList" : {
+            "items" : [ {
+              "dispNo" : 5571899,
+              "dispNm" : "추천",
+              "imgUrl" : "http://image.lotte.com/upload/display/disp_shop/5571899.png",
+              "linkUrl" : "http://m.lotte.com/json/main_new/main_contents.json?dispNo=5571899&ctgDispNo=5571899&rowsPerPage=30",
+              "curDispNoSctCd" : "12"
+            }, {
+              "dispNo" : 5589830,
+              "dispNm" : "롯데셀렉샵",
+              "imgUrl" : "http://image.lotte.com/upload/display/disp_shop/5589696_20180514105523.png",
+              "linkUrl" : "http://m.lotte.com/json/main_new/main_contents.json?dispNo=5571899&ctgDispNo=5589830&rowsPerPage=30&preview=201806121601",
+              "curDispNoSctCd" : "78"
+            }, {
+              "dispNo" : 5573963,
+              "dispNm" : "잡화/슈즈/명품",
+              "imgUrl" : "http://image.lotte.com/upload/display/disp_shop/5573823_20171205185555.png",
+              "linkUrl" : "http://m.lotte.com/json/main_new/main_contents.json?dispNo=5571899&ctgDispNo=5573963&rowsPerPage=30&preview=201806121601",
+              "curDispNoSctCd" : "78"
+            }, {
+              "dispNo" : 5573957,
+              "dispNm" : "뷰티/헬스",
+              "imgUrl" : "http://image.lotte.com/upload/display/disp_shop/5573822.png",
+              "linkUrl" : "http://m.lotte.com/json/main_new/main_contents.json?dispNo=5571899&ctgDispNo=5573957&rowsPerPage=30&preview=201806121601",
+              "curDispNoSctCd" : "78"
+            }, {
+              "dispNo" : 5574014,
+              "dispNm" : "유아동",
+              "imgUrl" : "http://image.lotte.com/upload/display/disp_shop/5573829_20180514105503.png",
+              "linkUrl" : "http://m.lotte.com/json/main_new/main_contents.json?dispNo=5571899&ctgDispNo=5574014&rowsPerPage=30&preview=201806121601",
+              "curDispNoSctCd" : "78"
+            }, {
+              "dispNo" : 5573980,
+              "dispNm" : "스포츠/레저",
+              "imgUrl" : "http://image.lotte.com/upload/display/disp_shop/5573825_20180608114103.png",
+              "linkUrl" : "http://m.lotte.com/json/main_new/main_contents.json?dispNo=5571899&ctgDispNo=5573980&rowsPerPage=30&preview=201806121601",
+              "curDispNoSctCd" : "78"
+            }, {
+              "dispNo" : 5573969,
+              "dispNm" : "의류/속옷",
+              "imgUrl" : "http://image.lotte.com/upload/display/disp_shop/5573824_20180514105548.png",
+              "linkUrl" : "http://m.lotte.com/json/main_new/main_contents.json?dispNo=5571899&ctgDispNo=5573969&rowsPerPage=30&preview=201806121601",
+              "curDispNoSctCd" : "78"
+            }, {
+              "dispNo" : 5574000,
+              "dispNm" : "가전/가구/침구",
+              "imgUrl" : "http://image.lotte.com/upload/display/disp_shop/5573827_20180125134304.png",
+              "linkUrl" : "http://m.lotte.com/json/main_new/main_contents.json?dispNo=5571899&ctgDispNo=5574000&rowsPerPage=30&preview=201806121601",
+              "curDispNoSctCd" : "78"
+            }, {
+              "dispNo" : 5573990,
+              "dispNm" : "반려/여행/취미",
+              "imgUrl" : "http://image.lotte.com/upload/display/disp_shop/5573826_20171205185709.png",
+              "linkUrl" : "http://m.lotte.com/json/main_new/main_contents.json?dispNo=5571899&ctgDispNo=5573990&rowsPerPage=30&preview=201806121601",
+              "curDispNoSctCd" : "78"
+            }, {
+              "dispNo" : 5574007,
+              "dispNm" : "식품/생활용품",
+              "imgUrl" : "http://image.lotte.com/upload/display/disp_shop/5573828_20180516110432.png",
+              "linkUrl" : "http://m.lotte.com/json/main_new/main_contents.json?dispNo=5571899&ctgDispNo=5574007&rowsPerPage=30&preview=201806121601",
+              "curDispNoSctCd" : "78"
+            } ],
+            "total_count" : 10
+          }
+        } ]
+      }
+    ]
+}

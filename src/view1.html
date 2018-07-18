@@ -1,0 +1,13 @@
+<div id="contents">
+        <div class="view">
+            <div class="list2">
+                <img ng-src="{{viewData[tabIdx].moduleData[0].dealList.items[0].dealBanner.imgUrl}}" alt="">
+                <ul>
+                    <li ng-repeat="item in viewData[tabIdx].moduleData[0].dealList.items">
+                        <img ng-src="{{item.prdInfo.imgUrl}}" alt="">
+                        <p>{{item.prdInfo.goodsNm}}</p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>

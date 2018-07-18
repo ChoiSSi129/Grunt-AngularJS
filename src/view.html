@@ -1,0 +1,32 @@
+<div id="contents">
+    <div class="view">
+        <div class="list1">
+            <img ng-src="{{viewData[tabIdx].moduleData[0].beLoginBannerList.items[0].imgUrl}}" alt="{{viewData.disp[tabIdx].moduleData[0].moduleNm}}">
+            
+            <div ng-repeat="item in bannerData.items">
+                <img ng-src="{{item.imgUrl}}" alt="">
+                <p>{{item.btmTxt}}</p>
+            </div>
+
+            <div ng-repeat="item in serviceData.items">
+                <img ng-src="{{item.imgUrl}}" alt="">
+                <p>{{item.txt}}</p>
+            </div>
+
+            <div ng-repeat="item in cardData.items">
+                <img ng-src="{{item.imgUrl}}" alt="">
+                <p>{{item.benefitTxt}} {{item.cardTxt}}</p>
+            </div>
+
+            <div>
+                <img ng-src="{{surpriseTitData.imgUrl}}" alt="">
+                <p>{{surpriseTitData.txt}}</p>
+            </div>
+
+            <div ng-repeat="item in surpriseData.items">
+                <img ng-src="{{item.imgUrl}}" alt="">
+                <p>{{item.topTxt}} {{item.btmTxt}}</p>
+            </div>
+        </div>
+    </div>
+</div>
