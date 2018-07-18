@@ -80,6 +80,12 @@ module.exports = function(grunt){
 
         /*
         * grunt-contrib-cssmin - CSS파일 압축
+        * Option
+        * keepSpecialComments
+        *   · default - '!'가 붙은 주석은 보존
+        *   · 1 - '!'가 붙은 주석 중 첫번째 주석만 보존
+        *   · 0 - 모든 주석 제거
+        * 
         */
         cssmin: {
             build: {
