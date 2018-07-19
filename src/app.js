@@ -7,14 +7,14 @@ app.controller('testCtrl', ['$scope', '$http', function($scope, $http){
 
     var getData = {
         gnb: function(){
-            $http.get('/src/json/gnb.json').success(function(data){
+            $http.get('/json/gnb.json').success(function(data){
                 $scope.gnbData = data.data;
             }).error(function(e){
                 console.log(e)
             });
         },
         gnbView: function(){
-            $http.get('/src/json/gnbView.json').success(function(data){
+            $http.get('/json/gnbView.json').success(function(data){
                 $scope.viewData = data.disp;
                 $scope.bannerData = data.disp[0].moduleData[1];
                 $scope.serviceData = data.disp[0].moduleData[2];
@@ -34,7 +34,7 @@ app.directive('header', [function(){
     return {
         restrict: 'EC',
         controller: 'testCtrl',
-        templateUrl: '/src/template.html',
+        templateUrl: '/src/common/header.html',
         replace: true,
         transclude: true,
         link: function($scope, $el, $attr){

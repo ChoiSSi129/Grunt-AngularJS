@@ -8,6 +8,8 @@ module.exports = function(grunt){
     grunt.loadNpmTasks('grunt-processhtml');
     grunt.loadNpmTasks('grunt-contrib-jshint');
 
+    var destRoot = './dest';
+
     // 프로젝트 구성
     grunt.initConfig({
         /*
@@ -17,13 +19,22 @@ module.exports = function(grunt){
         * prefix - 템플릿 URL 앞에 추가할 문자열 설정
         */
         ngtemplates: {
+            header: {
+                options: {
+                    prefix: '/',
+                    module: 'app'
+                },
+                src: 'src/common/header.html',
+                dest: destRoot + '/common/header_tpl.js'
+            },
+
             app: {
                 options: {
                     prefix: '/',
                     module: 'app'
                 },
-                src: 'src/view.html',
-                dest: './src/view_template.js'
+                src: 'src/common/contents1.html',
+                dest: destRoot + '/common/contents1_tpl.js'
             }
         },
 
@@ -47,8 +58,8 @@ module.exports = function(grunt){
             },
 
             basic: {
-                src: ['./src/contents.js'], // Concat 타겟 설정(앞에서부터 순서대로 합쳐진다.)
-                dest: './src/contents.js' // Concat 결과 파일
+                src: ['./src/common/contents.js'], // Concat 타겟 설정(앞에서부터 순서대로 합쳐진다.)
+                dest: destRoot + '/common/contents.js' // Concat 결과 파일
             }
         },
 
@@ -63,18 +74,20 @@ module.exports = function(grunt){
         */
         uglify: {
             appMin: {
-                src: './src/app.js',
-                dest: './src/app.min.js'
+                src: './src/app.js', //uglify할 대상 설정
+                dest: destRoot + '/app.min.js' //uglify 결과 파일 설정
             },
 
-            tempMin: {
-                src: './src/view_template.js', //uglify할 대상 설정
-                dest: './src/view_template.min.js' //uglify 결과 파일 설정
+            tplMin: { 
+                files: {
+                    './dest/common/header_tpl.min.js' : './dest/common/header_tpl.js',
+                    './dest/common/contents1_tpl.min.js' : './dest/common/contents1_tpl.js'
+                }
             },
 
             jsMin: {
-                src: './src/contents.js',
-                dest: './src/contents.min.js'
+                src: './src/common/contents.js',
+                dest: destRoot + '/common/contents.min.js'
             }
         },
 
@@ -90,7 +103,7 @@ module.exports = function(grunt){
         cssmin: {
             build: {
                 src: ['./src/css/common.css'],
-                dest: './src/css/common.min.css'
+                dest: destRoot + '/css/common.min.css'
             }
         },
 
@@ -98,7 +111,9 @@ module.exports = function(grunt){
         * grunt-contrib-clean - 설정된 파일 제거
         */
         clean: [
-            './src/view_template.js'
+            destRoot + '/common/header_tpl.js',
+            destRoot + '/common/contents1_tpl.js',
+            destRoot + '/common/contents.js'
         ],
 
         /*
@@ -117,7 +132,7 @@ module.exports = function(grunt){
             },
             dist: {
                 files: {
-                    './src/dest/index.html': ['./src/index.html']
+                    './dest/index.html': ['./src/index.html']
                 }
             }
         },
